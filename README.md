@@ -61,44 +61,50 @@ Ultimately, the goal of this program, is to get users to finish their tasks, on 
 ## Why not use other youtube video downloaders? They look prettier!
   - Other video downloaders purely download onto .mp4 and .mp3, and are made exclusively for casual use.
   - A casual user, if he wants **anything other than download a .mp4/.mp3** he will have no power to finish his task.  
-  For example, download only videos above 1000 views and/or with embedded youtube-subtitles. Good luck doing that on other youtube video downloaders!!
-  - Clipboard is not automatically copied, meaning for each video, you have to:
+  For example, download only videos above 1000 views and/or with embedded youtube-subtitles. Good luck doing that on other youtube video downloaders
+  - "I don't care about that, I just want to download videos" -> The clipboard is automatically copy-pasted unlike in any other video downloader!
+  Take a look at the process to copy-paste a video onto any other downloader:
   1. click the textbox
   2. right-click
   3. paste
   4. press Enter/click Download
-  Compared to here, where it's automatically done for you. All you have to do is press Enter/click Download.  
-  Saving time from a few buttons may seem negligible to you, but it ramps up the more you use it. Accessibility always wins in the end - the less tasks you have to do, the better for everyone. No more frustration.
+  **Compared to here, where it's automatically done for you**. All you have to do is press Enter/click Download.  
+  Saving time from a few buttons may seem negligible to you, but it ramps up the more you use it. Accessibility always wins in the end - the less tasks you have to do, the better for everyone. No more frustration, or wasted time.
   
 **Ultimately, this program is made for both casual users and power users.**
+This program has all the features a casual user would need, alongside all features a power user would need, and atop of that, makes sure the transition of a casual user to a power user happens without any manual reading or other boring tasks!
 
 ### Actual Competitors
   
-  - [YoutubeDLGUI] (https://github.com/MrS0m30n3/youtube-dl-gui)
+  - [YoutubeDLGUI](https://github.com/MrS0m30n3/youtube-dl-gui)
   	- UI looks horrible
 	- There is no console log! If there is an error or warning, good luck finding it
 	- You cannot input any options, like downloading from a channel, only videos after X(1000) views, or subtitles.
 	- The download formats are predefined
-	- No clipboard copy-paste saving you time
-- [Viddly] (https://vidd.ly/)
-	This is the peak example of what the PowerGUI was born for.
-	Given that program's functionality, a user will NEVER use any advanced features, because he CANNOT use any advanced features.
+	- No clipboard copy-paste saving you time!
+- [Viddly](https://vidd.ly/)
+	- It is "free". It has **ADVERTISEMENTS** and blackmails you to a paid subscription to remove them? lmao wtf!
+	- Its code is **not open-source**, which means **it could easily hide a spyware/malware** and you have no way to prevent that!
+	- You have to go through an entire installer!
+	- Its download formats are predefined
+	- No clipboard copy-paste saving you time!
+	
+	Let's magically ignore the above, and assume, it was fully free, like this program, was open-source, and didn't have an installation process to work.
+
+	This is the peak example of what the PowerGUI was born to rival - a smooth casual program.
+	Given that program's functionality, a user will **NEVER** use any advanced features, because he **CANNOT** use any advanced features.
 	If he wants **any** other option than the default:
-	- e.g. Download with youtube's subtitles in user's language and thumbnails
-	- e.g. Download only videos of a playlist/channel over/under X views
-	- e.g. Download only videos of a playlist/channel after/before X date, and then convert them to .mp3 or .wav
-	- e.g. Download a channel from earliest to latest
-	- e.g. Download only videos of a playlist/channel of size X
-	- e.g. blablablablaaa, you can imagine how many different requirements each user has
-	**HE CANNOT DO THE ABOVE**
+	- Download with youtube's subtitles in user's language and thumbnails
+	- Download only videos of a playlist/channel over/under X views
+	- Download only videos of a playlist/channel after/before X date, and then convert them to .mp3 or .wav
+	- Download a channel from earliest to latest
+	- Download only videos of a playlist/channel of size X
+	- blablablablaaa, you can imagine how many different requirements each user has
+	**HE CANNOT DO ANY OF THE ABOVE**
 	He will never achieve the most optimal and effortless usage of the simplest task he wants! Either give up, or go beg the developers lmao  
 	
-	Because surely, in the future that program may get the accessible clipboard feature, so you don't have to paste once in your life again, but it will never give you [SO MANY CHOICES](https://github.com/ytdl-org/youtube-dl#options) (when you need them) 
+	Because surely, in the future, a free clone of that program may get the accessible clipboard feature, so you don't have to paste once in your life again, but it will never give you [SO MANY CHOICES](https://github.com/ytdl-org/youtube-dl#options) (when you need them)
 	
-	Did I mention the above has **ADVERTISEMENTS**, and blackmails you to a paid subscription to remove it? lmao wtf!
-	Its code is **not**even **open-source**, which means **it could easily have spyware/malware** and you have no way to prevent that!
-	
-	And atop of that, you have to go through an entire installer!
 
   
 ### On an entirely different level!
