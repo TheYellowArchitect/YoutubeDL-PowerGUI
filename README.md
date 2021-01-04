@@ -44,7 +44,7 @@ Look at the [CHOICES](https://github.com/ytdl-org/youtube-dl#options) you are gi
 You may not use them, you are never bothered with them, **but** you CAN use them when you need them.
 
 ### Customization
-(Available to advanced users)
+(Available to advanced users)  
 And let's say you want to download the thumbnail of every video you download, maybe it has a cool meme?
 `--write-all-thumbnails` with your URL after, and press that mysterious Custom Button, and name it "Thumbnails"
 
