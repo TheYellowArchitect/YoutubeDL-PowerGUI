@@ -20,7 +20,7 @@ All accessible to the most casual of users (ol' grandma), while at the same time
   - And hope the site has no viruses
   
 ## What is a PowerGUI
-Graphical User Interfaces (GUI) were made for casual users. This means making a program accessible, but losing functionality (which very few users need so it's widely acceptable)
+Graphical User Interfaces (GUI) were made for casual users. This means making a program accessible, but losing some functionality (which very few users need so it's widely acceptable)
 A PowerGUI is a GUI which has not lost any feature, any depth, while also not annoying or frustrating the casual user with its advanced features. Why? Because the advanced features are for advanced users, and these features exist to make their usage more efficient. In short, an advanced user **spends less time** with the program, to do the same task a casual user would.
 
 You, as a user, want to get your job done, the program is merely your tool to getting it done. Pressing keys, or clicking buttons, the goal is finishing a task. No one interacts with a program for interaction's sake, and so, the faster you are done with it, the better. Power users spend the less possible time to finish their task, however small.
