@@ -16,6 +16,8 @@ All accessible to the most casual of users (ol' grandma), while at the same time
   - They also are slower, as they download the video on their servers, then you download it from their servers. What happens here is you download it straight to your computer, the middle man is cut, and you won't have to wait **even a second** anymore!  
   No waiting for the download button -_-
   - You have to open your browser and trade advertisements or cookies, to download any video...
+  - Accept terms of uses you never read
+  - And hope the site has no viruses
   
 ## What is a PowerGUI
 Graphical User Interfaces (GUI) were made for casual users. This means making a program accessible, but losing functionality (which very few users need so it's widely acceptable)
@@ -48,14 +50,67 @@ You can also use tab, but honestly who uses that anymore? Mouses exist, but anyw
 Ultimately, the goal of this program, is to get users to finish their tasks, on the less possible time. To become power users, without **ever** reading documentation or experimenting around. Because in the end of the day, a tool usable by all is good, but improving based on the user's powers and requirements - **that** is the ultimate tool.
   
 ## Why not use other youtube video downloaders? They look prettier!
-  - Other video downloaders purely download onto .mp4 and .mp3, and are made exclusively for casual use. **This is made for both casual users and power users.**
-  A casual us
+  - Other video downloaders purely download onto .mp4 and .mp3, and are made exclusively for casual use.
+  - A casual user, if he wants **anything other than download a .mp4/.mp3** he will have no power to finish his task. E.g. download only videos above 1000 views. Good luck doing that on other youtube video downloaders!!
+  - Clipboard is not automatically copied, meaning for each video, you have to:
+  1. click the textbox
+  2. right-click
+  3. paste
+  4. press Enter/click Download
+  Compared to here, where it's automatically done for you. All you have to do is press Enter/click Download.  
+  Saving time from a few buttons may seem negligible to you, but it ramps up the more you use it. Accessibility always wins in the end - the less tasks you have to do, the better for everyone. No more frustration.
+  
+**Ultimately, This is made for both casual users and power users.**
+
+### Competitors
+  
+  - YoutubeDLGUI https://github.com/MrS0m30n3/youtube-dl-gui
+  	- UI looks horrible
+	- There is no console log! If there is an error or warning, good luck finding it
+	- You cannot input any options, like downloading from a channel, only videos after X(1000) views, or subtitles.
+	- The download formats are predefined
+	- No clipboard copy-paste saving you time
+YoutubeVidDownloader
+	Cringe hugeass bloat
+	Cant download multiple at once
+	No shortcuts or clipboard copy-paste to enter.
+	((Can you even download another process entirely at the same time?))
+https://vidd.ly/
+	This is the peak example of what the PowerGUI was born for.
+	Given that program's functionality, a user will NEVER use any advanced features, because he CANNOT use any advanced features.
+	If he wants any other option (e.g. --write-all-thumbnails), the difficulty curve will be so high (open cmd, cd.. there, and write the commands) to the point he will straight up give up. He will never achieve the most optimal and effortless usage of the simple task he wants. To download videos, in 2 buttons.
+
   
 ### On an entirely different level!
 Honestly, the fact you can press 3 buttons
 `ctrl+C (video URL) -> F9 (shortcut boot) -> Enter`
 to download any video - finishing your task instantly by the time you press them - is something other "competitors" will **never** touch, and their users will be troubled by clicking buttons all day and exploring their directory instead lmao  
-And even if they really reach this level of efficiency, they will **never** have as many choices https://github.com/ytdl-org/youtube-dl#options as this program.     They will be pretty but they will never become a PowerGUI. The opposite, however, is possible.
+And even if they really reach this level of efficiency, they will **never** have as many choices https://github.com/ytdl-org/youtube-dl#options as this program.     They will be pretty but they will **never** become a PowerGUI. The opposite, however, is possible.
   
+## Credits
+I have to thank https://github.com/ytdl-org/youtube-dl and the developers which made youtube-dl, because it is the "backbone" of this software, hence it is packaged together.
+That program as the command line (kinda the black text line you type on), and this program as the interface **everyone** can use!
+
+This program is under GPL v3 license, made by me, Dimitrios Malandris, out of frustration on how time-consuming it was to download a single video (either install bloat software, or browse the directory and manually put arguments onto youtube-dl.exe)
+I hope it is as useful to you, as it is to me :)
+
+## Personal Disclaimer
+This program is what you should expect from an 1.0 release. Functional, without a single crashing bug, while also covering all its users' needs (powerusers, mouse users, keyboard users, casual users). No more core functionality will ever be added, as there is nothing to add. No updates will be released, breaking stuff, as all the core functionality is **COMPLETE** (Kinda sad I have to stress this out, the state of software quality nowadays is below garbage)
+
+I could be hit by a train, and it should function perfectly even 5 years from now (as long youtube-dl.exe works)
+			
+However, I plan to maintain it, and add misc features, like Localisation!
+And perhaps make it a bit prettier.
+  
+## Why Download Videos?
+Because videos often get taken down.
+Youtube's servers cost money, and videos which youtube or other entities do not like, get taken down.
+There is no better backup, than your own USBs/Hard Drives, instead of foreign corporate servers.
+This is not an application for journalists and the like. I started downloading videos myself, when pretty much all video game music over more than 20 game titles was taken down en masse, by a certain company. (yes, even freaking video game music is not safe from censorship)
+Suddenly, my background music playlist was empty. More than 500 songs I was daily listening to, were gone, and I couldn't do anything.
+Given censorship is only rising, you never know when your favourite channel gets sniped, all of the good videos gone, because of a single video posted and instabanned. Even private videos get sniped.
+tl;dr: download them so you can see them whenever you see fit, not when other corporations judge if you are approved to see them.
+Also you can see them offline or later, without lagspikes, when travelling or in other boring situations.
+
 ## Download Sites Supported
 https://ytdl-org.github.io/youtube-dl/supportedsites.html
