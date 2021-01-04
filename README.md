@@ -121,7 +121,7 @@ Because videos often get taken down.
 Youtube's servers cost money, and videos which youtube or other entities do not like, get taken down.
 There is no better backup, than your own USBs/Hard Drives, instead of foreign corporate servers.
 This is not an application for journalists and the like. I started downloading videos myself, when pretty much all video game music over more than 20 game titles was taken down en masse, by a certain company. (yes, even freaking video game music is not safe from censorship)  
-Suddenly, my background music playlist was empty. More than 500 songs I was daily listening to, were gone, and I couldn't do anything.
+Suddenly, my background music playlist was **empty**. **More than 500 songs** I was daily listening to, **were gone**, and I couldn't do anything.
 Given censorship is only rising, you never know when your favourite channel gets sniped, all of the good videos gone, because of a single video posted and instabanned. Even private videos get sniped nowadays.
 
 **tl;dr: download them so you can see them whenever you see fit, not when other corporations judge if you are approved to see them.**  
