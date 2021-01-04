@@ -1,6 +1,6 @@
 # ![YoutubeDL PowerGUI Symbol](https://user-images.githubusercontent.com/25630803/103581167-56982200-4e90-11eb-93b9-96618b030c69.png)YoutubeDL-PowerGUI 
 With this program, you can download any video, music, playlist, channel, out of any site!  
-All accessible to the most casual of users (ol' grandma), while at the same time, power users who want to have the job done with 3 button presses!
+All accessible and easy to the most casual of users (ol' grandma), while at the same time, including power users who want to have the job done with 3 button presses!
 
 ## Downloads
   ### Windows
