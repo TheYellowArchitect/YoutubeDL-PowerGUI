@@ -121,7 +121,7 @@ This is not an application for journalists and the like. I started downloading v
 Suddenly, my background music playlist was empty. More than 500 songs I was daily listening to, were gone, and I couldn't do anything.
 Given censorship is only rising, you never know when your favourite channel gets sniped, all of the good videos gone, because of a single video posted and instabanned. Even private videos get sniped nowadays.
 
-tl;dr: download them so you can see them whenever you see fit, not when other corporations judge if you are approved to see them.
+**tl;dr: download them so you can see them whenever you see fit, not when other corporations judge if you are approved to see them.**  
 (Also you can see them offline or later, without lagspikes, when travelling or in other boring situations.)
   
 ## Credits
