@@ -67,7 +67,7 @@ Ultimately, the goal of this program, is to get users to finish their tasks, on 
   1. click the textbox
   2. right-click
   3. paste
-  4. press Enter/click Download
+  4. press Enter/click Download  
   **Compared to here, where it's automatically done for you**. All you have to do is press Enter/click Download.  
   Saving time from a few buttons may seem negligible to you, but it ramps up the more you use it. Accessibility always wins in the end - the less tasks you have to do, the better for everyone. No more frustration, or wasted time.
   
