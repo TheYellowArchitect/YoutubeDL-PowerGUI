@@ -1,0 +1,254 @@
+﻿TODO List:
+
+	Alongside the github stuff, do a full testing of the final zip
+	And make LOTS OF GIFS!
+	
+	GIFs plz, e.g. access keys, tabs (to show it can be used fully by keyboard, and by mouse or a mix)
+	^Show it with the 3 example videos. Definitely Seth on the background.
+	E.g. the key-presses
+	
+	Gif 1: Unzipping from Downloads, and leaving it there
+		Text: "You can put it anywhere you want. The best location is in Program Files"
+		Opening the software and then showing how it works, by browsing on the background on internet historian vids, right-click copy link location
+		Alt-Tab on show, then show pressing Enter
+		
+	Gif 2: Show normal usage of a normie, on a youtube site, copy-pasting the URL on top, by browsing and opening it by mouse.
+	Optimal Setup
+		Gif 3: Show normal usage of a power user, wanting to download a video
+		Has it on "Program Files", create bottom shortcut on F9
+
+	Release:		
+		
+		[]The Competition 
+			https://github.com/MrS0m30n3/youtube-dl-gui
+			https://github.com/axcore/tartube
+		[]Build Options will be weird for sure lel, gotta bundle it in a single .exe!
+			Seems like the final project folder will literally be the YoutubeDLGUI.exe, next to youtube-dl.exe ((so it won't have to search it))?
+		^"The exe throws an error due to missing MSVCR100.dll
+			To run the exe you need to install first the Microsoft Visual C++ 2010 Redistributable Package (x86)."
+			Gotta bundle it somehow!
+		
+		[]Put yellow architect icon on your profile ;)
+		
+		1.0 -> Give on README:
+			Downloads:
+				Windows: [link here]
+				Just unzip it, annoying installation bloat doesn't exist here
+				I heavily suggest looking into #optimal-setup.
+				So you can press F9, to start it from anywhere!
+				Linux: Linux Chads build pipes, they don't use GUI (kappa?)
+				//Dont even mention Mac
+				
+				If it doesn't work, it is because your Windows does not have Microsoft Visual C++ 2010 Redistributable Package (x86)[https://www.microsoft.com/en-us/download/details.aspx?id=5555], or .NET Framework 4.6[https://dotnet.microsoft.com/download/dotnet-framework/thank-you/net46-offline-installer]
+		
+			Why not use an online converter?
+				//**There is not a single online converter which can download entire playlists or channels.
+					//Muh customisation all in all is trash
+					//And its also slower since vids downloaded by server, then by you, instead of directly by you.
+				Muh playlist
+				Muh channel download
+				Muh custom commands of youtubeDL (e.g. you can download youtube's subtitles and description)
+				Muh privacy
+				Muh shortcuts and customization (saving commands)
+				^Like, you can press F9 -> Enter, and you have downloaded your video. (redirect to optimal setup)
+				Compare this with the chore of opening an entire browser, using a search engine to write youtube converter, hope it has no malware, paste the link (not done for you automatically), click enter, await a few years for their servers to boot it up, then atop of that, instead of already having it in your pc, you have to click download and wait.
+				
+					//Above put muh all sites download not just youtube! https://ytdl-org.github.io/youtube-dl/supportedsites.html
+				
+				Just cut the middle person and begone with this bloat!
+		
+			Muh commands
+				Link to list
+			
+			What is a PowerGUI?
+				blabla muh accessibility without losing any depth
+				muh end goal is not appealing to normies, but making every user, spend the less possible time with the program. To make everyone a power user, organically.
+				
+				"So yeah, its both a command prompt and a GUI, in the same place :)"
+				"An accessible command prompt. If this was Linux, imagine the pipe building..." (Linux for around 1.0)
+			Optimal Setup
+				Muh shortcut on desktop (F9)
+					Muh Shortcuts (Ctrl1/5)
+					Muh renaming to put _ to become access key (muh Alt)
+					Muh tab button
+				
+			Why I made this -> On its own .txt, not at github front page plz.
+				"::While I hope no1 else uses this script, I have to mention why I made this.
+				::Everytime I want to see a mere url, I have to go start menu -> cmd -> cd .. -> cd .. -> cd program files (x86) -> cd youtubeDL -> (open notepad++ and find the fucking command to copypaste) -> paste the command and copypaste the URL.
+				::I have downloaded over 500 videos this way... I tried to make a GUI using Visual Studio, but Visual Studio crashed permanently and had to be uninstalled. (also fuck telemetry, so, good riddance)
+				::I wanted to make the closest to GUI, something to win time, you click it, you click a button (in this case, a number), paste the url and done. Close to GUI ;)"
+				^Expand this
+				
+			Common Errors
+				Try updating
+				Then explain muh 403 https://ostechnix.com/fix-unable-to-download-video-data-http-error-403-forbidden-error/ to write
+				--rm-cache-dir
+				
+			GIFs plz, e.g. access keys, tabs (to show it can be used fully by keyboard, and by mouse or a mix)
+			^Show it with the 3 example videos. Definitely Seth on the background.
+			E.g. the key-presses
+			
+			"Personal Disclaimer: This program is what you should expect from an 1.0 release. Functional, without bugs, while also covering all its users' needs (powerusers, mouse users, keyboard users). No more core functionality will ever be added, as there is nothing to add. No updates will be released, breaking stuff, as all the core functionality is **COMPLETE** (Kinda sad I have to stress this out, the state of software quality nowadays is below garbage) 
+			
+			I could be hit by a train, and it should function perfectly even 5 years from now (as long youtube-dl.exe works)
+			
+			However, I plan to maintain it, and add misc features, like Localisation!"
+			
+			Muh license at the end, muh GPL v3, put name of creator too (you, real name included)
+			
+			Muh competition, somewhere above "Why use this video downloader, instead of others? They look prettier!"
+				YoutubeDLGUI
+					Explain its trash because you cannot input anything which passes directly to youtube-dl.exe, aka options.
+					No console log either
+					Formats predefined kek
+					No shortcuts or clipboard copy-paste to enter.
+				YoutubeVidDownloader
+					Cringe hugeass bloat
+					Cant download multiple at once
+					No shortcuts or clipboard copy-paste to enter.
+					((Can you even download another process entirely at the same time?))
+				https://vidd.ly/
+					This is the peak example of what the PowerGUI was born for.
+					Given that program's functionality, a user will NEVER use any advanced features, because he CANNOT use any advanced features.
+					If he wants any other option (e.g. --write-all-thumbnails), the difficulty curve will be so high (open cmd, cd.. there, and write the commands) to the point he will straight up give up. He will never achieve the most optimal and effortless usage of the simple task he wants. To download videos, in 2 buttons.
+					
+				https://github.com/MrS0m30n3/youtube-dl-gui
+				https://github.com/axcore/tartube
+
+Future:
+	Major:
+		[]Localisation
+			^muh tooltips (of english)
+			Nea Ellinika Binteo/Kineikones
+			Ancient Greek Kineikones
+		[]TextBlock for console Log to become TextBox so you can copy that stuff and paste it ((but ofc you cant write there!)
+		[]If ffmpeg is not detected at launch, video's --format mp4 becomes vanilla, and audio's double argument becomes --best-audio
+		[]Output-Related (look into -o for exporting data?)
+			[*]Description:
+				--write-description -> Write video description to a .description file (description for boolean ftw!)
+				--write-info-json   -> Write video metadata to a .info.json file
+				^Gotta get size, duration.
+				
+			[*]Thumbnail:
+				--write-thumbnail                Write thumbnail image to disk
+				--write-all-thumbnails           Write all thumbnail image formats to disk
+				--list-thumbnails                Simulate and list all available thumbnail formats
+				--embed-thumbnail                Embed thumbnail in the audio as cover art
+				
+				^Thumbnail view boolean box plz.
+			[*]Change format?
+				--merge-output-format FORMAT     If a merge is required (e.g. bestvideo+bestaudio), output to given container format. One of mkv, mp4, ogg,    webm, flv. Ignored if no merge is required
+				
+			[*]Subtitles		
+				Subtitle Options:
+				--write-sub                      Write subtitle file
+				--write-auto-sub                 Write automatically generated subtitle file(YouTube only)
+				--all-subs                       Download all the available subtitles of the video
+				--list-subs                      List all available subtitles for the video
+				--sub-format FORMAT              Subtitle format, accepts formats preference, for example: "srt" or "ass/srt/best"
+				--sub-lang LANGS                 Languages of the subtitles to download (optional) separated by commas, use --list- subs for available language tags
+				--embed-subs                     Embed subtitles in the video (only for mp4, webm and mkv videos)
+				^Subtitle POG
+				
+			[*]FFMPEG related
+				--ffmpeg-location PATH           Location of the ffmpeg/avconv binary;
+										 either the path to the binary or its
+										 containing directory.
+				^Perhaps also get ffmpeg next to youtube-dl.exe? -> https://www.ffmpeg.org/
+				
+			[*]Output Notes/Links!!!
+				https://github.com/detaybey/WrapYoutubeDl/blob/master/WrapYoutubeDl/AudioDownloader.cs
+				https://askubuntu.com/questions/948516/how-do-i-download-with-youtube-dl-to-get-video-title-as-filename
+				https://unix.stackexchange.com/questions/598737/how-do-i-get-the-path-of-the-downloaded-youtube-dl-file
+				
+				https://docs.microsoft.com/en-us/dotnet/api/system.diagnostics.process.outputdatareceived?view=net-5.0
+				https://docs.microsoft.com/en-us/dotnet/api/system.diagnostics.processstartinfo.redirectstandardoutput?view=net-5.0
+				https://github.com/detaybey/WrapYoutubeDl/blob/43dbe59d0f8fe968e4c35bacba1d92d5c3f2515e/WrapYoutubeDl.Cnsl/Program.cs#L21
+				https://github.com/detaybey/WrapYoutubeDl/blob/43dbe59d0f8fe968e4c35bacba1d92d5c3f2515e/WrapYoutubeDl/AudioDownloader.cs#L136
+				
+				https://stackoverflow.com/questions/9732709/the-calling-thread-cannot-access-this-object-because-a-different-thread-owns-it
+				
+				
+		[]Rename by middle-click EVERYTHING!
+            //https://docs.microsoft.com/en-us/dotnet/api/system.windows.controls.button?view=net-5.0#methods
+            //https://docs.microsoft.com/en-us/dotnet/api/system.windows.controls.button.onclick?view=net-5.0#System_Windows_Controls_Button_OnClick
+			//https://docs.microsoft.com/en-us/dotnet/api/system.windows.uielement.onmouserightbuttondown?view=net-5.0#System_Windows_UIElement_OnMouseRightButtonDown_System_Windows_Input_MouseButtonEventArgs_
+	Minor:
+		[]Have lots of dataGridColumnHeaders, e.g. Video Upload Date(, Video Views)
+		[]Double click a selected element, should open the file (VLC pog!)
+		Right click a selected element should open the file location and select the file
+		[]For error output and stuff (e.g. press -U to update), either make details inside the data grid, which is easy
+        https://www.wpf-tutorial.com/datagrid-control/details-row/
+        and closeable with X? -> This should give the normal youtube-dl output.
+
+Held Notes:
+
+	Async/Multithreading POG EXAMPLE:
+		private void button1_MouseEnter(object sender, MouseEventArgs e)
+		{
+			BackgroundWorker worker = new BackgroundWorker();
+			worker.DoWork += delegate
+			{
+				for (int i = 0; i < 2; i++)
+				{
+					this.Dispatcher.Invoke((Action)(() => { btn.Content = Convert.ToString(i); }));
+					System.Threading.Thread.Sleep(1000);
+				}                
+			};
+			worker.RunWorkerCompleted += delegate { tekst.Text = "Mouse Enter"; };
+			worker.RunWorkerAsync();
+		}
+		
+	Useful af on panels/UI Groups
+		https://docs.microsoft.com/en-us/dotnet/desktop/wpf/controls/panels-overview?view=netframeworkdesktop-4.8
+
+	Shortcut/Access Keys:
+		https://www.wpf-tutorial.com/control-concepts/access-keys/
+		https://www.wpf-tutorial.com/commands/implementing-custom-commands/
+		https://stackoverflow.com/questions/1361350/keyboard-shortcuts-in-wpf
+
+	Tooltips:
+		https://docs.microsoft.com/en-us/dotnet/api/system.windows.controls.tooltip?view=net-5.0
+		https://www.c-sharpcorner.com/UploadFile/1e050f/tooltip-in-wpf/
+		
+	Basic WPF Tutorials:
+		https://www.wpf-tutorial.com/data-binding/hello-bound-world/
+		https://www.wpf-tutorial.com/data-binding/using-the-datacontext/
+		https://www.wpf-tutorial.com/data-binding/data-binding-via-code-behind/
+		https://www.wpf-tutorial.com/data-binding/the-update-source-trigger-property/
+		https://www.wpf-tutorial.com/datagrid-control/custom-columns/
+		https://www.wpf-tutorial.com/datagrid-control/details-row/
+		
+	Deploy
+		https://docs.microsoft.com/en-us/visualstudio/deployment/?view=vs-2019
+		https://stackoverflow.com/questions/24671255/wpf-application-as-portable-exe-or-single-exe-file
+	Debug
+		https://docs.microsoft.com/en-us/visualstudio/debugger/?view=vs-2019
+	WPF Starting Guide
+		https://docs.microsoft.com/en-us/dotnet/desktop/wpf/getting-started/walkthrough-my-first-wpf-desktop-application?view=netframeworkdesktop-4.8
+		
+	Accessibility - Keyboard Section POG (e.g. navigation fully by keyboard, and underlined shortcuts)
+		https://docs.microsoft.com/en-us/dotnet/framework/ui-automation/accessibility-best-practices
+	Language
+		https://docs.microsoft.com/en-us/dotnet/desktop/wpf/advanced/wpf-globalization-and-localization-overview?view=netframeworkdesktop-4.8
+		^Do one for English, Greek, and one for Russian.
+			^Greek -> N;ea Ellinik;a ((oxi apla ellinika, peta k arxaia ellinika an goustareis lmao))
+		^Use tooltips for each localised word to show the english
+		^Dynamic Localisation!
+			Right-clicking each button, becomes an inputText, so you can change it!
+			POG! A video on its own!
+			"Peak Localisation - Developers HATE HIM!"
+				Muh customization, muh freedom to shape the software as users so wish.
+				Right-clicking background for 3 seconds too, to change background image to whatever they wish.
+	Mass-Comment
+		https://stackoverflow.com/questions/7921672/how-to-add-comments-into-a-xaml-file-in-wpf (Ctrl+K -> Ctrl+C, and to uncomment Ctrl+K -> Ctrl+U)
+	Data-Binding
+		https://docs.microsoft.com/en-us/dotnet/desktop/wpf/data/data-binding-overview?view=netdesktop-5.0
+	Data-Templating
+		https://docs.microsoft.com/en-us/dotnet/desktop/wpf/data/data-templating-overview?view=netframeworkdesktop-4.8
+		https://www.codeproject.com/articles/18303/a-guided-tour-of-wpf-part-4-data-templates-and-tri
+		"As shown above, for ItemsControl objects, such as the ListBox, it is the ItemTemplate property. For ContentControl objects, it is the ContentTemplate property."
+	Data-Grids
+		https://www.c-sharpcorner.com/uploadfile/mahesh/datagrid-in-wpf/
+		https://codinginfinite.com/display-data-datagrid-wpf-grid-layout-tutorial/ -> making fully custom grids from XAML
+		https://www.wpf-tutorial.com/datagrid-control/custom-columns/ -> If you want to go deeper into datagrids!

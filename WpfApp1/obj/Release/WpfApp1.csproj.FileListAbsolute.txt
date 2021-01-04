@@ -1,0 +1,17 @@
+C:\Users\Metastasis\source\repos\YoutubeDLGUI\WpfApp1\WpfApp1\bin\Release\YoutubeDL PowerGUI.exe.config
+C:\Users\Metastasis\source\repos\YoutubeDLGUI\WpfApp1\WpfApp1\bin\Release\YoutubeDL PowerGUI.exe
+C:\Users\Metastasis\source\repos\YoutubeDLGUI\WpfApp1\WpfApp1\bin\Release\YoutubeDL PowerGUI.pdb
+C:\Users\Metastasis\source\repos\YoutubeDLGUI\WpfApp1\WpfApp1\obj\Release\WindowStylesDictionary.baml
+C:\Users\Metastasis\source\repos\YoutubeDLGUI\WpfApp1\WpfApp1\obj\Release\YoutubeDLGUIWindow.g.cs
+C:\Users\Metastasis\source\repos\YoutubeDLGUI\WpfApp1\WpfApp1\obj\Release\App.g.cs
+C:\Users\Metastasis\source\repos\YoutubeDLGUI\WpfApp1\WpfApp1\obj\Release\YoutubeDL PowerGUI_MarkupCompile.cache
+C:\Users\Metastasis\source\repos\YoutubeDLGUI\WpfApp1\WpfApp1\obj\Release\YoutubeDL PowerGUI_MarkupCompile.lref
+C:\Users\Metastasis\source\repos\YoutubeDLGUI\WpfApp1\WpfApp1\obj\Release\App.baml
+C:\Users\Metastasis\source\repos\YoutubeDLGUI\WpfApp1\WpfApp1\obj\Release\ButtonStyles.baml
+C:\Users\Metastasis\source\repos\YoutubeDLGUI\WpfApp1\WpfApp1\obj\Release\YoutubeDLGUIWindow.baml
+C:\Users\Metastasis\source\repos\YoutubeDLGUI\WpfApp1\WpfApp1\obj\Release\YoutubeDL PowerGUI.g.resources
+C:\Users\Metastasis\source\repos\YoutubeDLGUI\WpfApp1\WpfApp1\obj\Release\WpfApp1.Properties.Resources.resources
+C:\Users\Metastasis\source\repos\YoutubeDLGUI\WpfApp1\WpfApp1\obj\Release\WpfApp1.csproj.GenerateResource.cache
+C:\Users\Metastasis\source\repos\YoutubeDLGUI\WpfApp1\WpfApp1\obj\Release\WpfApp1.csproj.CoreCompileInputs.cache
+C:\Users\Metastasis\source\repos\YoutubeDLGUI\WpfApp1\WpfApp1\obj\Release\YoutubeDL PowerGUI.exe
+C:\Users\Metastasis\source\repos\YoutubeDLGUI\WpfApp1\WpfApp1\obj\Release\YoutubeDL PowerGUI.pdb
