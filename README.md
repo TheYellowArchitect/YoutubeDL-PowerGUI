@@ -45,10 +45,12 @@ You may not use them, but you CAN use them when you need them.
 
 ### Customization
 And let's say you want to download the thumbnail of every video you download, maybe it has a cool meme?
-`--write-all-thumbnails [YourVideoURL]` and press that mysterious Custom Button, and name it "Thumbnails"
+`--write-all-thumbnails` with your URL after, and press that mysterious Custom Button, and name it "Thumbnails"
 
 Now, every video you input, once you press that button, automatically downloads thumbnails atop the video!
-  
+Any option you input (you saw examples above) do not have to be written time and time again, the goal of this program is to save time!
+You could have a button to always download the videos you put, with embedded subtitles!
+
 ### Keyboard Usage
 Hotkeys - direct keyboard usage - makes your usage faster, and hence, finishing faster your task.
 Download Video/Music/Custom1/Custom2/Custom3/Custom4 are mapped on Ctrl+1/2/3/4/5
