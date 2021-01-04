@@ -67,12 +67,13 @@ Ultimately, the goal of this program, is to get users to finish their tasks, on 
   1. click the textbox
   2. right-click
   3. paste
-  4. press Enter/click Download  
+  4. press Enter/click Download
+  
   **Compared to here, where it's automatically done for you**. All you have to do is press Enter/click Download.  
-  Saving time from a few buttons may seem negligible to you, but it ramps up the more you use it. Accessibility always wins in the end - the less tasks you have to do, the better for everyone. No more frustration, or wasted time.
+  Saving time from a few buttons may seem negligible to you, but it ramps up the more you use it. Accessibility always wins in the end - the less tasks you have to do, the better for everyone. Ultra casual users (grandma) won't struggle to copy something and wonder if she really copied, and everyone else who can do this reliably, don't have to ever bother doing this task. Copy-Paste-Enter is the entire process to download a video in all downloaders/converters, and this is the only program which utterly removes the -paste- part!  
   
 **Ultimately, this program is made for both casual users and power users.**
-This program has all the features a casual user would need, alongside all features a power user would need, and atop of that, makes sure the transition of a casual user to a power user happens without any manual reading or other boring tasks!
+This program has all the features a casual user would need, alongside all features a power user would need, and atop of that, makes sure the transition of a casual user to a power user can happen without any manual reading or other boring tasks!
 
 ### Video Downloader Competitors
   
@@ -83,11 +84,11 @@ This program has all the features a casual user would need, alongside all featur
 	- The download formats are predefined
 	- No clipboard copy-paste saving you time!
 - [Viddly](https://vidd.ly/)
-	- It is "free". It has **ADVERTISEMENTS** and blackmails you to a paid subscription to remove them? lmao wtf!
-	- Its code is **not open-source**, which means **it could easily hide a spyware/malware** and you have no way to prevent that!
+	- It is "free". It has **ADVERTISEMENTS** and blackmails you to a paid subscription to remove them? lmao wtf, escaping youtube advertisements to get viddly's!
+	- Its code is **not open-source**, which means **it could easily hide a spyware/malware** and you have no way to prevent that or even know if it really has that!
 	- You have to go through an entire installer!
 	- Its download formats are predefined
-	- No clipboard copy-paste saving you time!
+	- No clipboard copy-paste saving you time
 	
 	Let's magically ignore the above, and assume, it was fully free, like this program, was open-source, and didn't have an installation process to work.
 
