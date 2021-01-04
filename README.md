@@ -149,3 +149,5 @@ I could be hit by a bus, and it should function perfectly even 5 years from now 
 However, I plan to maintain it, as I'm sure there are some extreme use-cases I did not cover (but cannot think of, as this program already covers my needs and beyond)  
 And add miscellaneous features, like Localization   
 And perhaps make it a bit prettier
+
+Wait, you read up to here? There is no more text! But there is a good software at the top ;)
