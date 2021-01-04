@@ -100,6 +100,7 @@ This program has all the features a casual user would need, alongside all featur
 	- Download a channel from earliest to latest, instead of latest to earliest (which is default)
 	- Download only videos of a playlist/channel, greater/lesser of filesize X
 	- blablablablaaa, you can imagine how many different requirements each user has  
+	
 	**HE CANNOT DO ANY OF THE ABOVE**
 	He will never achieve the most optimal and effortless usage of the simplest task he wants! Either give up, or go beg the developers lmao  
 	
