@@ -88,16 +88,16 @@ This program has all the features a casual user would need, alongside all featur
 	- Its code is **not open-source**, which means **it could easily hide a spyware/malware** and you have no way to prevent that or even know if it really has that!
 	- You have to go through an entire installer!
 	- Its download formats are predefined
-	- No clipboard copy-paste saving you time
+	- No clipboard copy-paste saving you time!
 	
 	Let's magically ignore the above, and assume, it was fully free, like this program, was open-source, and didn't have an installation process to work.
-	This is the peak example of what the PowerGUI was born to rival - a polished casual program.
+	This is the peak example of what the PowerGUI was born to rival - a polished casual program (which currently doesn't exist without serious disadvantages)
 	Given that program's functionality, a user will **NEVER** use any advanced features, because he **CANNOT** use any advanced features.
 	If he wants **any** other option than the default:
 	- Download with youtube's subtitles in user's language and thumbnails
 	- Download only videos of a playlist/channel over/under X views
 	- Download only videos of a playlist/channel after/before X date, and then convert them to .mp3 or .wav
-	- Download a channel from earliest to latest
+	- Download a channel from earliest to latest, instead of latest to earliest (which is default)
 	- Download only videos of a playlist/channel of size X
 	- blablablablaaa, you can imagine how many different requirements each user has
 	**HE CANNOT DO ANY OF THE ABOVE**
