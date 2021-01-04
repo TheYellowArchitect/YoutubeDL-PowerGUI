@@ -101,7 +101,7 @@ This program has all the features a casual user would need, alongside all featur
 	- Download only videos of a playlist/channel, greater/lesser of filesize X
 	- blablablablaaa, you can imagine how many different requirements each user has  
 	
-	**HE CANNOT DO ANY OF THE ABOVE**
+	**HE CANNOT DO ANY OF THE ABOVE**  
 	He will never achieve the most optimal and effortless usage of the simplest task he wants! Either give up, or go beg the developers lmao  
 	
 	Because surely, in the future, a free clone of that program may get the accessible clipboard feature, so you don't have to paste once in your life again, but no program will never give you [SO MANY CHOICES](https://github.com/ytdl-org/youtube-dl#options) (when you need them)
@@ -113,6 +113,8 @@ Honestly, the fact you can press 3 buttons
 `ctrl+C (video URL) -> F9 (shortcut boot out of anywhere) -> Enter`
 to download any video - finishing your task instantly by the time you press them - is something other "competitors" will **never** touch, and their users will be troubled by clicking buttons all day and exploring their directory instead lmao  
 And even if they really reach this level of efficiency, they will **never** have [as many choices](https://github.com/ytdl-org/youtube-dl#options) as this program.     They will be pretty but they will **never** become a PowerGUI. The opposite, however, is possible.
+
+tl;dr: This program covers all casual usages without frustration and great intuition. But unlike the (pathetic) competition, it also covers power users, this is my point in half this text you are scrolling, since casual usage and intuition, is polished (no searching for buttons)
   
 ## Why Download Videos?
 Because videos often get taken down.
