@@ -25,9 +25,9 @@ A PowerGUI is a GUI which has not lost any feature, any depth, while also not an
 
 You, as a user, want to get your job done, the program is merely your tool to getting it done. Pressing keys, or clicking buttons, the goal is finishing a task. No one interacts with a program for interaction's sake, and so, the faster you are done with it, the better. Power users spend the less possible time to finish their task, however small.
 
-This program, is accessible to everyone, accessible enough to be used exclusively by mouse without frustration!
-But being a PowerGUI, over time of usage will make you a power user, organically.
-Here are a few examples of an advanced requirement, coming up organically:
+This program, is accessible to everyone, accessible enough to be used exclusively by mouse without frustration!  
+But being a PowerGUI, over time of usage will make you a power user, organically.  
+Here are a few examples of an advanced requirement, coming up organically:  
 - Let's say on the 12th playlist you download, one video is removed from youtube. All other "competitors" will crash there, maybe one will skip the video.
 If you search other software how to ignore removed videos, **there is literally no solution** - what are you going to do, touch the code? lmao!  
 Here? You search https://github.com/ytdl-org/youtube-dl#options and just write
