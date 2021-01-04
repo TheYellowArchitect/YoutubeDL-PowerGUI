@@ -4,9 +4,9 @@ All accessible to the most casual of users (ol' grandma), while at the same time
 
 ## Downloads
   ### Windows
-  Just unzip it, annoying installation bloat doesn't exist here
-	I heavily suggest looking into #optimal-setup.
-	So you can press F9, to start it from anywhere!
+  Just unzip it!  
+  No annoying installation bloat!
+  Look into #optimal-setup, so you can press F9, and start it from anywhere!
   
   ### Linux
   Linux Chads build pipes, they don't use GUI (kappa?)
