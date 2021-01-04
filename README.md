@@ -28,7 +28,7 @@ You, as a user, want to get your job done, the program is merely your tool to ge
 This program, is accessible to everyone, accessible enough to be used exclusively by mouse without frustration!  
 But being a PowerGUI, over time of usage will make you a power user, organically.  
 Here are a few examples of an advanced requirement, coming up organically:  
-- Let's say on the 12th playlist you download, one video is removed from youtube. All other "competitors" will crash there, maybe one will skip the video.
+- Let's say on the 12th playlist you download, one video in the playlist is taken down by youtube and is inaccessible/deleted. All other "competitors" will crash there, maybe one will skip the video.
 If you search other software how to ignore removed videos, **there is literally no solution** - what are you going to do, touch the code? lmao!  
 Here? You search https://github.com/ytdl-org/youtube-dl#options and just write
 `-i` or `--ignore-errors` and then copy-paste your playlist.
