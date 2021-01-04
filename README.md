@@ -127,6 +127,9 @@ Given censorship is only rising, you never know when your favourite channel gets
 **tl;dr: download them so you can see them whenever you see fit, not when other corporations judge if you are approved to see them.**  
 (Also you can see them offline or later, without lagspikes, when travelling or in other boring situations.)
   
+## Download Sites Supported
+https://ytdl-org.github.io/youtube-dl/supportedsites.html
+  
 ## Credits
 I have to thank the developers who made [youtube-dl](https://github.com/ytdl-org/youtube-dl), because it is the "backbone" of this software, hence it is packaged together.
 That program as the command line (kinda the black text line you type on), and this program as the interface **everyone** can use!
@@ -139,11 +142,8 @@ This program is what you should expect from an 1.0 release. Functional, without 
 No more core functionality will ever be added, as there is nothing to add, it's all in there already.  
 No updates will be released, breaking stuff, as all the core functionality is **COMPLETE** (kinda sad I have to stress this out, the state of software quality nowadays is below garbage)
 
-I could be hit by a train, and it should function perfectly even 5 years from now (as long youtube-dl.exe works)
+I could be hit by a bus, and it should function perfectly even 5 years from now (as long youtube-dl.exe works)
 			
 However, I plan to maintain it, as I'm sure there are some extreme use-cases I did not cover (but cannot think of, as this program already covers my needs and beyond)  
 And add miscellaneous features, like Localization   
 And perhaps make it a bit prettier
-
-## Download Sites Supported
-https://ytdl-org.github.io/youtube-dl/supportedsites.html
