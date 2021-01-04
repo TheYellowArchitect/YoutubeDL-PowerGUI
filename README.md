@@ -4,7 +4,7 @@ All accessible to the most casual of users (ol' grandma), while at the same time
 
 ## Downloads
   ### Windows
-  Just unzip it!  
+  Just [download](https://github.com/TheYellowArchitect/YoutubeDL-PowerGUI/releases/download/OriginalRelease/YoutubeDLPowerGUIFull.zip) and unzip it!  
   No annoying installation bloat!
   Look into #optimal-setup, so you can press F9, and start it from anywhere!
   
