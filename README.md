@@ -14,6 +14,7 @@ All accessible to the most casual of users (ol' grandma), while at the same time
 ## Why not use an online converter?
   - There is not a single online converter which can download entire playlists or channels.
   - They also are slower, as they download the video on their servers, then you download it from their servers. What happens here is you download it straight to your computer, the middle man is cut, and you won't have to wait **even a second** anymore!
+  
   No waiting for the download button -_-
   - You have to open your browser and trade advertisements or cookies, to download any video...
   
