@@ -52,8 +52,8 @@ Any option you input (see examples above) do not have to be written time and tim
 For example, you could have a button to always download the videos you put, with embedded subtitles, instead of writing the subtitles options every time!
 
 ### Hotkeys
-(For advanced users)
-Download Video/Music/Custom1/Custom2/Custom3/Custom4 are mapped on Ctrl+1/2/3/4/5
+(For advanced users)  
+Download Video/Music/Custom1/Custom2/Custom3/Custom4 are mapped on Ctrl+1/2/3/4/5  
 You can also use tab, but honestly who uses that anymore? Mouses exist, but anyway, for accessibility, tab usage is complete as well, to ensure full usage of the software by exclusively using a keyboard, just like its fully usable by exclusively using a mouse.
 
 Ultimately, the goal of this program, is to get users to finish their tasks, on the less possible time. To become power users, without **ever** reading documentation or experimenting around. No advanced user is born overnight, such needs come up organically. Because in the end of the day, a tool usable by all is good, but improving based on the user's powers and requirements - **that** is the ultimate tool.
