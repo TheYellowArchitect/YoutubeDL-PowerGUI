@@ -128,7 +128,7 @@ tl;dr: download them so you can see them whenever you see fit, not when other co
 I have to thank the developers who made [youtube-dl](https://github.com/ytdl-org/youtube-dl), because it is the "backbone" of this software, hence it is packaged together.
 That program as the command line (kinda the black text line you type on), and this program as the interface **everyone** can use!
 
-This program is under GPL v3 license, made by me, Dimitrios Malandris, free for everyone, out of frustration on how time-consuming it was to download a single video (either install bloat software, or browse the directory and manually put arguments onto youtube-dl.exe)
+This program is under GPL v3 license, made by me, Dimitrios Malandris, free for everyone, out of frustration on how time-consuming it was to download a single video (either install bloat software, or browse the directory and manually put arguments onto youtube-dl.exe)  
 I hope it is as useful to you, as it is to me :)
 
 ## Personal Disclaimer
