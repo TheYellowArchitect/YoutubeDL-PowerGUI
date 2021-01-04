@@ -1,5 +1,6 @@
 # YoutubeDL-PowerGUI
-[description]
+With this program, you can download any video, music, playlist, channel, out of any site!
+All accessible to the most casual of users (ol' grandma), while at the same time, power users who want to have the job done within 3 button presses
 
 ## Downloads
   ### Windows
@@ -7,7 +8,7 @@
 	I heavily suggest looking into #optimal-setup.
 	So you can press F9, to start it from anywhere!
   
-	### Linux
+  ### Linux
   Linux Chads build pipes, they don't use GUI (kappa?)
   
 ## Why not use an online converter?
@@ -47,6 +48,7 @@ You can also use tab, but honestly who uses that anymore? Mouses exist, but anyw
   - Other video downloaders purely download onto .mp4 and .mp3, and are made exclusively for casual use. **This is made for both casual users and power users.**
   A casual us
   
+### On an entirely different level!
 Honestly, the fact you can press 3 buttons
 `ctrl+C (video URL) -> F9 (shortcut boot) -> Enter`
 to download any video, is something other "competitors" will **never** touch, and their users will be troubled by clicking buttons all day and exploring their directory instead lmao
