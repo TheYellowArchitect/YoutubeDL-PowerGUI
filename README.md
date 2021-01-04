@@ -44,6 +44,7 @@ Look at the [CHOICES](https://github.com/ytdl-org/youtube-dl#options) you are gi
 You may not use them, you are never bothered with them, **but** you CAN use them when you need them.
 
 ### Customization
+(Available to advanced users)
 And let's say you want to download the thumbnail of every video you download, maybe it has a cool meme?
 `--write-all-thumbnails` with your URL after, and press that mysterious Custom Button, and name it "Thumbnails"
 
@@ -52,7 +53,7 @@ Any option you input (see examples above) do not have to be written time and tim
 For example, you could have a button to always download the videos you put, with embedded subtitles, instead of writing the subtitles options every time!
 
 ### Hotkeys
-(For advanced users)  
+(Available to advanced users)  
 Download Video/Music/Custom1/Custom2/Custom3/Custom4 are mapped on Ctrl+1/2/3/4/5  
 You can also use tab, but honestly who uses that anymore? Mouses exist, but anyway, for accessibility, tab usage is complete as well, to ensure full usage of the software by exclusively using a keyboard, just like its fully usable by exclusively using a mouse.
 
