@@ -113,6 +113,17 @@ Honestly, the fact you can press 3 buttons
 to download any video - finishing your task instantly by the time you press them - is something other "competitors" will **never** touch, and their users will be troubled by clicking buttons all day and exploring their directory instead lmao  
 And even if they really reach this level of efficiency, they will **never** have [as many choices](https://github.com/ytdl-org/youtube-dl#options) as this program.     They will be pretty but they will **never** become a PowerGUI. The opposite, however, is possible.
   
+## Why Download Videos?
+Because videos often get taken down.
+Youtube's servers cost money, and videos which youtube or other entities do not like, get taken down.
+There is no better backup, than your own USBs/Hard Drives, instead of foreign corporate servers.
+This is not an application for journalists and the like. I started downloading videos myself, when pretty much all video game music over more than 20 game titles was taken down en masse, by a certain company. (yes, even freaking video game music is not safe from censorship)  
+Suddenly, my background music playlist was empty. More than 500 songs I was daily listening to, were gone, and I couldn't do anything.
+Given censorship is only rising, you never know when your favourite channel gets sniped, all of the good videos gone, because of a single video posted and instabanned. Even private videos get sniped nowadays.
+
+tl;dr: download them so you can see them whenever you see fit, not when other corporations judge if you are approved to see them.
+(Also you can see them offline or later, without lagspikes, when travelling or in other boring situations.)
+  
 ## Credits
 I have to thank the developers who made [youtube-dl](https://github.com/ytdl-org/youtube-dl), because it is the "backbone" of this software, hence it is packaged together.
 That program as the command line (kinda the black text line you type on), and this program as the interface **everyone** can use!
@@ -121,22 +132,12 @@ This program is under GPL v3 license, made by me, Dimitrios Malandris, out of fr
 I hope it is as useful to you, as it is to me :)
 
 ## Personal Disclaimer
-This program is what you should expect from an 1.0 release. Functional, without a single crashing bug, while also covering all its users' needs (powerusers, mouse users, keyboard users, casual users). No more core functionality will ever be added, as there is nothing to add. No updates will be released, breaking stuff, as all the core functionality is **COMPLETE** (Kinda sad I have to stress this out, the state of software quality nowadays is below garbage)
+This program is what you should expect from an 1.0 release. Functional, without a single serious bug, while also covering all its users' needs (powerusers, mouse users, keyboard users, casual users). No more core functionality will ever be added, as there is nothing to add, it's all in there already. No updates will be released, breaking stuff, as all the core functionality is **COMPLETE** (Kinda sad I have to stress this out, the state of software quality nowadays is below garbage)
 
 I could be hit by a train, and it should function perfectly even 5 years from now (as long youtube-dl.exe works)
 			
 However, I plan to maintain it, and add misc features, like Localisation!
 And perhaps make it a bit prettier.
-  
-## Why Download Videos?
-Because videos often get taken down.
-Youtube's servers cost money, and videos which youtube or other entities do not like, get taken down.
-There is no better backup, than your own USBs/Hard Drives, instead of foreign corporate servers.
-This is not an application for journalists and the like. I started downloading videos myself, when pretty much all video game music over more than 20 game titles was taken down en masse, by a certain company. (yes, even freaking video game music is not safe from censorship)
-Suddenly, my background music playlist was empty. More than 500 songs I was daily listening to, were gone, and I couldn't do anything.
-Given censorship is only rising, you never know when your favourite channel gets sniped, all of the good videos gone, because of a single video posted and instabanned. Even private videos get sniped.
-tl;dr: download them so you can see them whenever you see fit, not when other corporations judge if you are approved to see them.
-Also you can see them offline or later, without lagspikes, when travelling or in other boring situations.
 
 ## Download Sites Supported
 https://ytdl-org.github.io/youtube-dl/supportedsites.html
