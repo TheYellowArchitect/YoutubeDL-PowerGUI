@@ -109,8 +109,8 @@ This program has all the features a casual user would need, alongside all featur
   
 ### On an entirely different level!
 Honestly, the fact you can press 3 buttons
-`ctrl+C (video URL) -> F9 (shortcut boot) -> Enter`
-to download any video - finishing your task instantly by the time you press them - is something other "competitors" will **never** touch, and their users will be troubled by clicking buttons all day and exploring their directory instead lmao 
+`ctrl+C (video URL) -> F9 (shortcut boot out of anywhere) -> Enter`
+to download any video - finishing your task instantly by the time you press them - is something other "competitors" will **never** touch, and their users will be troubled by clicking buttons all day and exploring their directory instead lmao  
 And even if they really reach this level of efficiency, they will **never** have [as many choices](https://github.com/ytdl-org/youtube-dl#options) as this program.     They will be pretty but they will **never** become a PowerGUI. The opposite, however, is possible.
   
 ## Credits
