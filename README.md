@@ -47,12 +47,12 @@ You may not use them, you are never bothered with them, **but** you CAN use them
 And let's say you want to download the thumbnail of every video you download, maybe it has a cool meme?
 `--write-all-thumbnails` with your URL after, and press that mysterious Custom Button, and name it "Thumbnails"
 
-Now, every video you input, once you press that button, automatically downloads thumbnails atop the video!
-Any option you input (you saw examples above) do not have to be written time and time again, the goal of this program is to save time!
-You could have a button to always download the videos you put, with embedded subtitles!
+Now, every video you input, once you press that button, automatically downloads thumbnails atop the video!  
+Any option you input (see examples above) do not have to be written time and time again `--write-all-thumbnails`, the goal of this program is to save time!
+For example, you could have a button to always download the videos you put, with embedded subtitles, instead of writing the subtitles options every time!
 
-### Keyboard Usage
-Hotkeys - direct keyboard usage - makes your usage faster, and hence, finishing faster your task.
+### Hotkeys
+(For advanced users)
 Download Video/Music/Custom1/Custom2/Custom3/Custom4 are mapped on Ctrl+1/2/3/4/5
 You can also use tab, but honestly who uses that anymore? Mouses exist, but anyway, for accessibility, tab usage is complete as well, to ensure full usage of the software by exclusively using a keyboard, just like its fully usable by exclusively using a mouse.
 
@@ -62,14 +62,14 @@ Ultimately, the goal of this program, is to get users to finish their tasks, on 
   - Other video downloaders purely download onto .mp4 and .mp3, and are made exclusively for casual use.
   - A casual user, if he wants **anything other than download a .mp4/.mp3** he will have no power to finish his task.  
   For example, download only videos above 1000 views and/or with embedded youtube-subtitles. Good luck doing that on other youtube video downloaders
-  - "I don't care about that, I just want to download videos" -> The clipboard is automatically copy-pasted unlike in any other video downloader!
+  - **"I don't care about that, I just want to download videos"** -> The clipboard is automatically copy-pasted unlike in any other video downloader!
   Take a look at the process to copy-paste a video onto any other downloader:
   1. click the textbox
   2. right-click
   3. paste
   4. press Enter/click Download
   
-  **Compared to here, where it's automatically done for you**. All you have to do is press Enter/click Download.  
+  **Compared to here, where clicking&pasting is automatically done for you**. All you have to do is press Enter/click Download.  
   Saving time from a few buttons may seem negligible to you, but it ramps up the more you use it. Accessibility always wins in the end - the less tasks you have to do, the better for everyone. Ultra casual users (grandma) won't struggle to copy something and wonder if she really copied, and everyone else who can do this reliably, don't have to ever bother doing this task. Copy-Paste-Enter is the entire process to download a video in all downloaders/converters, and this is the only program which utterly removes the -paste- part!  
   
 **Ultimately, this program is made for both casual users and power users.**
