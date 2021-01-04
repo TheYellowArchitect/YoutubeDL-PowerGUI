@@ -91,7 +91,7 @@ This program has all the features a casual user would need, alongside all featur
 	- No clipboard copy-paste saving you time!
 	
 	Let's magically ignore the above, and assume, it was fully free, like this program, was open-source, and didn't have an installation process to work.
-	This is the peak example of what the PowerGUI was born to rival - a polished casual program (which currently doesn't exist without serious disadvantages)
+	This is the peak example of what the PowerGUI was born to rival - a polished casual program (which currently doesn't exist without serious disadvantages)  
 	Given that program's functionality, a user will **NEVER** use any advanced features, because he **CANNOT** use any advanced features.
 	If he wants **any** other option than the default:
 	- Download with youtube's subtitles in user's language and thumbnails
