@@ -98,8 +98,8 @@ This program has all the features a casual user would need, alongside all featur
 	- Download only videos of a playlist/channel over/under X views
 	- Download only videos of a playlist/channel after/before X date, and then convert them to .mp3 or .wav
 	- Download a channel from earliest to latest, instead of latest to earliest (which is default)
-	- Download only videos of a playlist/channel of size X
-	- blablablablaaa, you can imagine how many different requirements each user has
+	- Download only videos of a playlist/channel, greater/lesser of filesize X
+	- blablablablaaa, you can imagine how many different requirements each user has  
 	**HE CANNOT DO ANY OF THE ABOVE**
 	He will never achieve the most optimal and effortless usage of the simplest task he wants! Either give up, or go beg the developers lmao  
 	
