@@ -132,7 +132,9 @@ This program is under GPL v3 license, made by me, Dimitrios Malandris, free for 
 I hope it is as useful to you, as it is to me :)
 
 ## Personal Disclaimer
-This program is what you should expect from an 1.0 release. Functional, without a single serious bug, while also covering all its users' needs (powerusers, mouse users, keyboard users, casual users). No more core functionality will ever be added, as there is nothing to add, it's all in there already. No updates will be released, breaking stuff, as all the core functionality is **COMPLETE** (Kinda sad I have to stress this out, the state of software quality nowadays is below garbage)
+This program is what you should expect from an 1.0 release. Functional, without a single serious bug, while also covering all its users' needs (powerusers, mouse users, keyboard users, casual users)  
+No more core functionality will ever be added, as there is nothing to add, it's all in there already.  
+No updates will be released, breaking stuff, as all the core functionality is **COMPLETE** (kinda sad I have to stress this out, the state of software quality nowadays is below garbage)
 
 I could be hit by a train, and it should function perfectly even 5 years from now (as long youtube-dl.exe works)
 			
