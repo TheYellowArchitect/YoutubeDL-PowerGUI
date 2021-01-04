@@ -30,17 +30,17 @@ But being a PowerGUI, over time of usage will make you a power user, organically
 Here are a few examples of an advanced requirement, coming up organically:  
 - Let's say on the 12th playlist you download, one video in the playlist is taken down by youtube and is inaccessible/deleted. All other "competitors" will crash there, maybe one will skip the video.  
 If you search other software how to ignore removed videos, **there is literally no solution** - what are you going to do, touch the code? lmao!    
-Here? You search https://github.com/ytdl-org/youtube-dl#options and just write
+Here? You [choose what you want](https://github.com/ytdl-org/youtube-dl#options) and just write
 `-i` or `--ignore-errors` and then copy-paste your playlist.
 - Let's say you want to download a channel, from the date 31/12/20 and before.  
 How are you going to do that? **There is literally no solution** on other programs  
-Here? You search https://github.com/ytdl-org/youtube-dl#options and just write  `--datebefore 31/12/20` and then copy-paste your playlist
+Here? You [choose what you want](https://github.com/ytdl-org/youtube-dl#options) and just write  `--datebefore 31/12/20` and then copy-paste your playlist
 - Let's say you want to download a channel, with your language's subtitles, and only videos under 500 MB (saving your hard drive space)  
 Obviously as you guessed, on other programs, **There is literally no solution**  
-Here, you search https://github.com/ytdl-org/youtube-dl#options and just write
+Here, you [choose what you want](https://github.com/ytdl-org/youtube-dl#options) and just write
 `--write-auto-sub --max-filesize 500m` and then copy-paste your playlist/channel
 
-Look at the CHOICES you are given! https://github.com/ytdl-org/youtube-dl#options
+Look at the [CHOICES](https://github.com/ytdl-org/youtube-dl#options) you are given! 
 You may not use them, but you CAN use them when you need them.
 
 ### Customization
@@ -74,13 +74,13 @@ Ultimately, the goal of this program, is to get users to finish their tasks, on 
 
 ### Actual Competitors
   
-  - YoutubeDLGUI https://github.com/MrS0m30n3/youtube-dl-gui
+  - [YoutubeDLGUI] (https://github.com/MrS0m30n3/youtube-dl-gui)
   	- UI looks horrible
 	- There is no console log! If there is an error or warning, good luck finding it
 	- You cannot input any options, like downloading from a channel, only videos after X(1000) views, or subtitles.
 	- The download formats are predefined
 	- No clipboard copy-paste saving you time
-- https://vidd.ly/
+- [Viddly] (https://vidd.ly/)
 	This is the peak example of what the PowerGUI was born for.
 	Given that program's functionality, a user will NEVER use any advanced features, because he CANNOT use any advanced features.
 	If he wants **any** other option than the default:
@@ -93,7 +93,7 @@ Ultimately, the goal of this program, is to get users to finish their tasks, on 
 	**HE CANNOT DO THE ABOVE**
 	He will never achieve the most optimal and effortless usage of the simplest task he wants! Either give up, or go beg the developers lmao  
 	
-	Because surely, in the future that program may get the accessible clipboard feature, so you don't have to paste once in your life again, but it will never give you SO MANY CHOICES (when you need them) https://github.com/ytdl-org/youtube-dl#options
+	Because surely, in the future that program may get the accessible clipboard feature, so you don't have to paste once in your life again, but it will never give you [SO MANY CHOICES](https://github.com/ytdl-org/youtube-dl#options) (when you need them) 
 	
 	Did I mention the above has **ADVERTISEMENTS**, and blackmails you to a paid subscription to remove it? lmao wtf!
 	Its code is **not**even **open-source**, which means **it could easily have spyware/malware** and you have no way to prevent that!
@@ -104,11 +104,11 @@ Ultimately, the goal of this program, is to get users to finish their tasks, on 
 ### On an entirely different level!
 Honestly, the fact you can press 3 buttons
 `ctrl+C (video URL) -> F9 (shortcut boot) -> Enter`
-to download any video - finishing your task instantly by the time you press them - is something other "competitors" will **never** touch, and their users will be troubled by clicking buttons all day and exploring their directory instead lmao
-And even if they really reach this level of efficiency, they will **never** have as many choices https://github.com/ytdl-org/youtube-dl#options as this program.     They will be pretty but they will **never** become a PowerGUI. The opposite, however, is possible.
+to download any video - finishing your task instantly by the time you press them - is something other "competitors" will **never** touch, and their users will be troubled by clicking buttons all day and exploring their directory instead lmao 
+And even if they really reach this level of efficiency, they will **never** have [as many choices](https://github.com/ytdl-org/youtube-dl#options) as this program.     They will be pretty but they will **never** become a PowerGUI. The opposite, however, is possible.
   
 ## Credits
-I have to thank https://github.com/ytdl-org/youtube-dl and the developers which made youtube-dl, because it is the "backbone" of this software, hence it is packaged together.
+I have to thank the developers who made [youtube-dl](https://github.com/ytdl-org/youtube-dl), because it is the "backbone" of this software, hence it is packaged together.
 That program as the command line (kinda the black text line you type on), and this program as the interface **everyone** can use!
 
 This program is under GPL v3 license, made by me, Dimitrios Malandris, out of frustration on how time-consuming it was to download a single video (either install bloat software, or browse the directory and manually put arguments onto youtube-dl.exe)
