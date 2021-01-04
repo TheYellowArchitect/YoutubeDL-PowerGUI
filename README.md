@@ -62,7 +62,7 @@ Ultimately, the goal of this program, is to get users to finish their tasks, on 
   
 **Ultimately, This is made for both casual users and power users.**
 
-### Competitors
+### Actual Competitors
   
   - YoutubeDLGUI https://github.com/MrS0m30n3/youtube-dl-gui
   	- UI looks horrible
@@ -70,15 +70,20 @@ Ultimately, the goal of this program, is to get users to finish their tasks, on 
 	- You cannot input any options, like downloading from a channel, only videos after X(1000) views, or subtitles.
 	- The download formats are predefined
 	- No clipboard copy-paste saving you time
-YoutubeVidDownloader
-	Cringe hugeass bloat
-	Cant download multiple at once
-	No shortcuts or clipboard copy-paste to enter.
-	((Can you even download another process entirely at the same time?))
-https://vidd.ly/
+- https://vidd.ly/
 	This is the peak example of what the PowerGUI was born for.
 	Given that program's functionality, a user will NEVER use any advanced features, because he CANNOT use any advanced features.
-	If he wants any other option (e.g. --write-all-thumbnails), the difficulty curve will be so high (open cmd, cd.. there, and write the commands) to the point he will straight up give up. He will never achieve the most optimal and effortless usage of the simple task he wants. To download videos, in 2 buttons.
+	If he wants **any** other option than the default:
+	- e.g. Download with youtube's subtitles in user's language and thumbnails
+	- e.g. Download only videos of a playlist/channel over/under X views
+	- e.g. Download only videos of a playlist/channel after/before X date, and then convert them to .mp3 or .wav
+	- e.g. Download a channel from earliest to latest
+	- e.g. Download only videos of a playlist/channel of size X
+	- e.g. blablablablaaa, you can imagine how many different requirements each user has
+	**HE CANNOT DO THE ABOVE**
+	He will never achieve the most optimal and effortless usage of the simplest task he wants! Either give up, or go beg the developers lmao  
+	
+	Because surely, in the future that program may get the accessible clipboard feature, so you don't have to paste once in your life again, but it will never give you SO MANY CHOICES (when you need them) https://github.com/ytdl-org/youtube-dl#options
 
   
 ### On an entirely different level!
