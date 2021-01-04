@@ -1,4 +1,4 @@
-# YoutubeDL-PowerGUI
+# ![YoutubeDL PowerGUI Symbol](https://user-images.githubusercontent.com/25630803/103581167-56982200-4e90-11eb-93b9-96618b030c69.png)YoutubeDL-PowerGUI 
 With this program, you can download any video, music, playlist, channel, out of any site!  
 All accessible to the most casual of users (ol' grandma), while at the same time, power users who want to have the job done with 3 button presses!
 
@@ -9,7 +9,7 @@ All accessible to the most casual of users (ol' grandma), while at the same time
   Look into #optimal-setup, so you can press F9, and start it from anywhere!
   
   ### Linux
-  Linux Chads build pipes, they don't use GUI (kappa?)
+  Linux Chads build pipes, they need no GUI ![14](https://user-images.githubusercontent.com/25630803/103581281-8fd09200-4e90-11eb-93bb-49dee4dac158.jpg)
   
 ## Why not use an online video converter?
   - There is not a single online converter which can download entire playlists or channels.
