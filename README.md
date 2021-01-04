@@ -33,10 +33,10 @@ If you search other software how to ignore removed videos, **there is literally 
 Here? You search https://github.com/ytdl-org/youtube-dl#options and just write
 `-i` or `--ignore-errors` and then copy-paste your playlist.
 - Let's say you want to download a channel, from the date 31/12/20 and before.  
-How are you going to do that? **There is literally no solution** on other programs
+How are you going to do that? **There is literally no solution** on other programs  
 Here? You search https://github.com/ytdl-org/youtube-dl#options and just write  `--datebefore 31/12/20` and then copy-paste your playlist
-- Let's say you want to download a channel, with your language's subtitles, and only videos under 500 MB (no 1 hour cringe videos)
-Obviously, **There is literally no solution**
+- Let's say you want to download a channel, with your language's subtitles, and only videos under 500 MB (saving your hard drive space)  
+Obviously as you guessed, on other programs, **There is literally no solution**  
 Here, you search https://github.com/ytdl-org/youtube-dl#options and just write
 `--write-auto-sub --max-filesize 500m` and then copy-paste your playlist/channel
 
