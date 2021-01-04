@@ -41,7 +41,7 @@ Here, you [choose what you want](https://github.com/ytdl-org/youtube-dl#options)
 `--write-auto-sub --max-filesize 500m` and then copy-paste your playlist/channel
 
 Look at the [CHOICES](https://github.com/ytdl-org/youtube-dl#options) you are given! 
-You may not use them, but you CAN use them when you need them.
+You may not use them, you are never bothered with them, **but** you CAN use them when you need them.
 
 ### Customization
 And let's say you want to download the thumbnail of every video you download, maybe it has a cool meme?
