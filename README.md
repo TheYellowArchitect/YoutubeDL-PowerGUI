@@ -60,7 +60,8 @@ Ultimately, the goal of this program, is to get users to finish their tasks, on 
   
 ## Why not use other youtube video downloaders? They look prettier!
   - Other video downloaders purely download onto .mp4 and .mp3, and are made exclusively for casual use.
-  - A casual user, if he wants **anything other than download a .mp4/.mp3** he will have no power to finish his task. E.g. download only videos above 1000 views. Good luck doing that on other youtube video downloaders!!
+  - A casual user, if he wants **anything other than download a .mp4/.mp3** he will have no power to finish his task.  
+  For example, download only videos above 1000 views and/or with embedded youtube-subtitles. Good luck doing that on other youtube video downloaders!!
   - Clipboard is not automatically copied, meaning for each video, you have to:
   1. click the textbox
   2. right-click
@@ -69,7 +70,7 @@ Ultimately, the goal of this program, is to get users to finish their tasks, on 
   Compared to here, where it's automatically done for you. All you have to do is press Enter/click Download.  
   Saving time from a few buttons may seem negligible to you, but it ramps up the more you use it. Accessibility always wins in the end - the less tasks you have to do, the better for everyone. No more frustration.
   
-**Ultimately, This is made for both casual users and power users.**
+**Ultimately, this program is made for both casual users and power users.**
 
 ### Actual Competitors
   
