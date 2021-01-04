@@ -116,7 +116,7 @@ Honestly, the fact you can press 3 buttons
 to download any video - finishing your task instantly by the time you press them - is something other "competitors" will **never** touch, and their users will be troubled by clicking buttons all day and exploring their directory instead lmao  
 And even if they really reach this level of efficiency, they will **never** have [as many choices](https://github.com/ytdl-org/youtube-dl#options) as this program.     They will be pretty but they will **never** become a PowerGUI. The opposite, however, is possible.
 
-tl;dr: This program covers all casual usages without frustration and great intuition. But unlike the (pathetic) competition, it also covers power users, this is my point in half this text you are scrolling, since casual usage and intuition, is polished (no searching for buttons)
+tl;dr: This program covers all casual usages without frustration and great intuition. But unlike the (pathetic) competition, it also covers power users, this is my point in half this text you are scrolling, since casual usage and intuition, is polished already (no searching for buttons)
   
 ## Why Download Videos?
 Because videos often get taken down.
