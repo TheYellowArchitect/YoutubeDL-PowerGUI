@@ -1,5 +1,5 @@
 # YoutubeDL-PowerGUI
-With this program, you can download any video, music, playlist, channel, out of any site!
+With this program, you can download any video, music, playlist, channel, out of any site!  
 All accessible to the most casual of users (ol' grandma), while at the same time, power users who want to have the job done within 3 button presses
 
 ## Downloads
