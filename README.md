@@ -62,7 +62,7 @@ Ultimately, the goal of this program, is to get users to finish their tasks, on 
   - Other video downloaders purely download onto .mp4 and .mp3, and are made exclusively for casual use.
   - A casual user, if he wants **anything other than download a .mp4/.mp3** he will have no power to finish his task.  
   For example, download only videos above 1000 views and/or with embedded youtube-subtitles. Good luck doing that on other youtube video downloaders
-  - **"I don't care about that, or being a casual user, I just want to download videos"** -> The clipboard is automatically copy-pasted unlike in any other video downloader!
+  - **"I don't care about that, I just want to download videos"** -> The clipboard is automatically copy-pasted unlike in any other video downloader!
   Take a look at the process to copy-paste a video onto any other downloader:
   1. left-click the textbox
   2. right-click
