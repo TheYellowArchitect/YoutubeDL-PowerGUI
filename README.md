@@ -28,15 +28,15 @@ You, as a user, want to get your job done, the program is merely your tool to ge
 This program, is accessible to everyone, accessible enough to be used exclusively by mouse without frustration!  
 But being a PowerGUI, over time of usage will make you a power user, organically.  
 #### Here are but a few examples of advanced requirements, coming up organically:  
-- Let's say on the playlist you download, one video in the playlist is taken down by youtube and is inaccessible/deleted. All other "competitors" will crash there, maybe one will skip the video.  
-If you search other software how to ignore removed videos, **there is literally no solution** - what are you going to do, touch the code? lmao!    
+- Let's say on the playlist you download, one video in the playlist is taken down by youtube and is inaccessible/deleted. All other video downloaders will crash there, maybe one will skip the video.  
+If you search how to ignore removed videos, on other video downloaders, **there is literally no solution** - what are you going to do, touch the code? lmao!    
 Here? You [choose what you want](https://github.com/ytdl-org/youtube-dl#options) and just write
 `-i` or `--ignore-errors` and then copy-paste your playlist.
 - Let's say you want to download a channel, from the date 31/12/20 and before.  
-How are you going to do that? **There is literally no solution** on other programs  
+How are you going to do that? **There is literally no solution** on other video downloaders  
 Here? You [choose what you want](https://github.com/ytdl-org/youtube-dl#options) and just write  `--datebefore 31/12/20` and then copy-paste your playlist
 - Let's say you want to download a channel, with your language's subtitles, and only videos under 500 MB (saving your hard drive space)  
-Obviously as you guessed, on other programs, **There is literally no solution**  
+Obviously as you guessed, on other video downloaders, **There is literally no solution**  
 Here, you [choose what you want](https://github.com/ytdl-org/youtube-dl#options) and just write
 `--write-auto-sub --max-filesize 500m` and then copy-paste your playlist/channel
 
@@ -48,7 +48,7 @@ And let's say you want to download the thumbnail of every video you download, ma
 `--write-all-thumbnails` with your URL after, and press that mysterious Custom Button, and name it "Thumbnails"
 
 Now, every video you input, once you press that button, automatically downloads thumbnails atop the video!  
-Any option you input (see examples above) do not have to be written time and time again `--write-all-thumbnails`, the goal of this program is to save time!
+Any option you input (see examples above) do not have to be written time and time again e.g. `--write-all-thumbnails` for every video, the goal of this program is to save time!
 For example, you could have a button to always download the videos you put, with embedded subtitles, instead of writing the subtitles options every time!
 
 ### Hotkeys
