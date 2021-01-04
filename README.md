@@ -74,12 +74,12 @@ Ultimately, the goal of this program, is to get users to finish their tasks, on 
 **Ultimately, this program is made for both casual users and power users.**
 This program has all the features a casual user would need, alongside all features a power user would need, and atop of that, makes sure the transition of a casual user to a power user happens without any manual reading or other boring tasks!
 
-### Actual Competitors
+### Video Downloader Competitors
   
   - [YoutubeDLGUI](https://github.com/MrS0m30n3/youtube-dl-gui)
   	- UI looks horrible
-	- There is no console log! If there is an error or warning, good luck finding it
-	- You cannot input any options, like downloading from a channel, only videos after X(1000) views, or subtitles.
+	- There is no console log! If there is an error or warning, good luck knowing what's wrong
+	- You cannot input any options, like downloading from a channel only videos after X(1000) views, or subtitles.
 	- The download formats are predefined
 	- No clipboard copy-paste saving you time!
 - [Viddly](https://vidd.ly/)
@@ -103,7 +103,7 @@ This program has all the features a casual user would need, alongside all featur
 	**HE CANNOT DO ANY OF THE ABOVE**
 	He will never achieve the most optimal and effortless usage of the simplest task he wants! Either give up, or go beg the developers lmao  
 	
-	Because surely, in the future, a free clone of that program may get the accessible clipboard feature, so you don't have to paste once in your life again, but it will never give you [SO MANY CHOICES](https://github.com/ytdl-org/youtube-dl#options) (when you need them)
+	Because surely, in the future, a free clone of that program may get the accessible clipboard feature, so you don't have to paste once in your life again, but no program will never give you [SO MANY CHOICES](https://github.com/ytdl-org/youtube-dl#options) (when you need them)
 	
 
   
