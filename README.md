@@ -138,8 +138,8 @@ No updates will be released, breaking stuff, as all the core functionality is **
 
 I could be hit by a train, and it should function perfectly even 5 years from now (as long youtube-dl.exe works)
 			
-However, I plan to maintain it, and add misc features, like Localisation!
-And perhaps make it a bit prettier.
+However, I plan to maintain it, and add misc features, like **Localization**  
+And perhaps make it a bit prettier
 
 ## Download Sites Supported
 https://ytdl-org.github.io/youtube-dl/supportedsites.html
