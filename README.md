@@ -5,14 +5,14 @@ All accessible and easy to the most casual of users (ol' grandma), while at the 
 ## Downloads
   ### Windows
   Just [download](https://github.com/TheYellowArchitect/YoutubeDL-PowerGUI/releases/download/OriginalRelease/YoutubeDLPowerGUIFull.zip) and unzip it!  
-  No annoying installation bloat!
-  Look into #optimal-setup, so you can press F9, and start it from anywhere!
+  No annoying installation bloat!  
+  ![OptimalSetup.gif](https://thumbs.gfycat.com/AmazingIdleChamois-size_restricted.gif)
   
   ### Linux
   Linux Chads build pipes, they need no GUI ![Kappa](https://user-images.githubusercontent.com/25630803/103581542-12f1e800-4e91-11eb-81a2-3883a2e32271.png)  
   
 ## Optimal Setup
-Pressing **3 buttons** to download any video, from anywhere!
+How to press **3 buttons** to download any video, from anywhere on your computer!
 No minimizing your browser/folder, to search the folder where this program is!
 
 The gif below shows moving the program above Program Files (optimal is inside), and setting an F9 shortcut, so you can do:
@@ -125,6 +125,12 @@ to download any video - finishing your task instantly by the time you press them
 And even if they really reach this level of efficiency, they will **never** have [as many choices](https://github.com/ytdl-org/youtube-dl#options) as this program.     They will be pretty but they will **never** become a PowerGUI. The opposite, however, is possible.
 
 tl;dr: This program covers all casual usages without frustration and great intuition. But unlike the (pathetic) competition, it also covers power users, this is my point in half this text you are scrolling, since casual usage and intuition, is polished already (no searching for buttons)
+  
+## Downloading Music
+Other video downloaders can download **exclusively** .mp3 and .mp4
+Unlike this video downloader feelsgoodman
+Anyway, look how easy it is to download music  
+![ConvertingMusic](https://user-images.githubusercontent.com/25630803/103596881-c79d0100-4eb3-11eb-87df-2b8e25820176.gif)
   
 ## Why Download Videos?
 Because videos often get taken down.
