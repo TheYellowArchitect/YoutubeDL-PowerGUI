@@ -16,7 +16,7 @@ All accessible and easy to the most casual of users (ol' grandma), while at the 
 How to press **3 buttons** to download any video, from anywhere on your computer!
 No minimizing your browser/folder, to search the folder where this program is!
 
-The gif below shows moving the program above Program Files (optimal is inside), and setting an F9 shortcut, so you can do:
+The gif below shows moving the program above Program Files (optimal is inside), and setting an F9 shortcut, so you can do:  
 `copy-link -> F9 -> Enter` to download any video, all as fast as you can type it!  
 ![OptimalSetup.gif](https://thumbs.gfycat.com/AmazingIdleChamois-size_restricted.gif)
   
