@@ -11,6 +11,9 @@ All accessible and easy to the most casual of users (ol' grandma), while at the 
   ### Linux
   Linux Chads build pipes, they need no GUI ![Kappa](https://user-images.githubusercontent.com/25630803/103581542-12f1e800-4e91-11eb-81a2-3883a2e32271.png)  
   
+## Optimal Setup
+Instead [of](https://s8.gifyu.com/images/OptimalSetup.gif)
+  
 ## Why not use an online video converter?
   - There is not a single online converter which can download entire playlists or channels.
   - They also are slower, as they download the video on their servers, then you download it from their servers. What happens here is you download it straight to your computer, the middle man is cut, and you won't have to wait **even a second** anymore!  
