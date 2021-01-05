@@ -117,7 +117,7 @@ This program has all the features a casual user would need, alongside all featur
 	- blablablablaaa, you can imagine how many different requirements each user has  
 	
 	**HE CANNOT DO ANY OF THE ABOVE**  
-	He will never achieve the most optimal and effortless usage of the simplest task he wants! Either give up, or go beg the developers lmao  
+	Either give up, or go beg the developers lmao  
 	
 	Because surely, in the future, a free clone of that program may get the accessible clipboard feature, so you don't have to paste once in your life again, but no program will never give you [SO MANY CHOICES](https://github.com/ytdl-org/youtube-dl#options) (when you need them)
 	
