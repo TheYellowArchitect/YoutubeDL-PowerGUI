@@ -68,6 +68,12 @@ You can also use tab, but honestly who uses that anymore? Mouses exist, but anyw
 
 #### Helping Users Over Time
 Ultimately, the goal of this program, is to get users to finish their tasks, on the less possible time. To become power users, without **ever** reading documentation or experimenting around. No advanced user is born overnight, such needs come up organically. And to have power users, casual users must be satisfied, to evolve organically. Because in the end of the day, a tool usable by all is good, but improving based on the user's powers and requirements - **that** is the ultimate tool.
+
+## Downloading Music
+Other video downloaders can download **only** files in .mp3 and .mp4  
+Unlike this video downloader feelsgoodman  
+Anyway, look how easy it is to download music - just as easy as the other downloaders!  
+![ConvertingMusic](https://user-images.githubusercontent.com/25630803/103596881-c79d0100-4eb3-11eb-87df-2b8e25820176.gif)
   
 ## Why not use other youtube video downloaders? They look prettier!
   - Other video downloaders exclusively download onto .mp4 and .mp3
@@ -126,12 +132,6 @@ to download any video - finishing your task instantly by the time you press them
 And even if they really reach this level of efficiency, they will **never** have [as many choices](https://github.com/ytdl-org/youtube-dl#options) as this program.     They will be pretty but they will **never** become a PowerGUI. The opposite, however, is possible.
 
 tl;dr: This program covers all casual usages without frustration and great intuition. But unlike the (pathetic) competition, it also covers power users, this is my point in half this text you are scrolling, since casual usage and intuition, is polished already (no searching for buttons)
-  
-## Downloading Music
-Other video downloaders can download **exclusively** .mp3 and .mp4
-Unlike this video downloader feelsgoodman
-Anyway, look how easy it is to download music  
-![ConvertingMusic](https://user-images.githubusercontent.com/25630803/103596881-c79d0100-4eb3-11eb-87df-2b8e25820176.gif)
   
 ## Why Download Videos?
 Because videos often get taken down.
