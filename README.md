@@ -8,6 +8,7 @@ All accessible and easy to the most casual of users (ol' grandma), while at the 
   Just [download](https://github.com/TheYellowArchitect/YoutubeDL-PowerGUI/releases/download/OriginalRelease/YoutubeDLPowerGUIFull.zip) and unzip it!  
   No annoying installation bloat!  
   ![OptimalSetup.gif](https://thumbs.gfycat.com/AmazingIdleChamois-size_restricted.gif)
+  If it doesn't work, your Windows doesn't have a [vital 2010 Microsoft package](https://www.microsoft.com/en-US/download/confirmation.aspx?id=5555) or [.NET Framework 4.6](https://dotnet.microsoft.com/download/dotnet-framework/thank-you/net46-offline-installer)
   
   ### Linux
   Linux Chads build pipes, they need no GUI ![Kappa](https://user-images.githubusercontent.com/25630803/103581542-12f1e800-4e91-11eb-81a2-3883a2e32271.png)  
@@ -119,7 +120,7 @@ This program has all the features a casual user would need, alongside all featur
 	**HE CANNOT DO ANY OF THE ABOVE**  
 	Either give up, or go beg the developers lmao  
 	
-	Because surely, in the future, a free clone of that program may get the accessible clipboard feature, so you don't have to paste once in your life again, but no program will never give you [SO MANY CHOICES](https://github.com/ytdl-org/youtube-dl#options) (when you need them)
+	Because surely, in the future, a free clone of that program may get the accessible clipboard feature, so you don't have to paste once in your life again, but no program will ever give you [SO MANY CHOICES](https://github.com/ytdl-org/youtube-dl#options) (when you need them)
 	
 
   
