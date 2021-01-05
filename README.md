@@ -7,8 +7,8 @@ All accessible and easy to the most casual of users (ol' grandma), while at the 
   ### Windows
   Just [download](https://github.com/TheYellowArchitect/YoutubeDL-PowerGUI/releases/download/OriginalRelease/YoutubeDLPowerGUIFull.zip) and unzip it!  
   No annoying installation bloat!  
-  ![OptimalSetup.gif](https://thumbs.gfycat.com/AmazingIdleChamois-size_restricted.gif)
-  If it doesn't work, your Windows doesn't have a [vital 2010 Microsoft package](https://www.microsoft.com/en-US/download/confirmation.aspx?id=5555) or [.NET Framework 4.6](https://dotnet.microsoft.com/download/dotnet-framework/thank-you/net46-offline-installer)
+  ![OptimalSetup.gif](https://thumbs.gfycat.com/AmazingIdleChamois-size_restricted.gif)  
+  If it doesn't run, your Windows doesn't have a [vital 2010 Microsoft package](https://www.microsoft.com/en-US/download/confirmation.aspx?id=5555) or [.NET Framework 4.6](https://dotnet.microsoft.com/download/dotnet-framework/thank-you/net46-offline-installer)
   
   ### Linux
   Linux Chads build pipes, they need no GUI ![Kappa](https://user-images.githubusercontent.com/25630803/103581542-12f1e800-4e91-11eb-81a2-3883a2e32271.png)  
