@@ -12,7 +12,12 @@ All accessible and easy to the most casual of users (ol' grandma), while at the 
   Linux Chads build pipes, they need no GUI ![Kappa](https://user-images.githubusercontent.com/25630803/103581542-12f1e800-4e91-11eb-81a2-3883a2e32271.png)  
   
 ## Optimal Setup
-Instead ![OptimalSetup.gif](https://thumbs.gfycat.com/AmazingIdleChamois-size_restricted.gif)
+Pressing **3 buttons** to download any video, from anywhere!
+No minimizing your browser/folder, to search the folder where this program is!
+
+The gif below shows moving the program above Program Files (optimal is inside), and setting an F9 shortcut, so you can do:
+`copy-link -> F9 -> Enter` to download any video, all as fast as you can type it!
+![OptimalSetup.gif](https://thumbs.gfycat.com/AmazingIdleChamois-size_restricted.gif)
   
 ## Why not use an online video converter?
   - There is not a single online converter which can download entire playlists or channels.
