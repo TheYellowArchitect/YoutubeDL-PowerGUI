@@ -1,0 +1,17 @@
+This window popping up should look like a virus popup, yet why not make a custom window to make it thematic TM?
+Want to make a custom window?
+Ok, first of all, remove all window functionalities and insert 9999 dependencies to do it for you, and add a bit of bloat to link them together.
+Holy Spagghetti Monster!
+
+WPF is already painful to work with, lacking so many basic functionalities for making UI, but this is just fucked.
+Look at the links. All working btw.
+	"just use this library bro" https://www.codeproject.com/Articles/1245616/Custom-WPF-window-with-Windows-system-functionalit
+	"just rewrite the entire window class bro" https://www.source-weave.com/blog/custom-wpf-window
+	"just remove the window style, and make your own window interface bro" https://stackoverflow.com/questions/6792275/how-to-create-custom-window-chrome-in-wpf
+	"just copypaste 2000 lines of code you dont understand bro" https://blog.magnusmontin.net/2013/03/16/how-to-create-a-custom-window-in-wpf/comment-page-1/
+	"just remove the borders entirely and hack around with opacity bro" https://www.kirupa.com/blend_wpf/custom_wpf_windows.htm
+	
+**ALL OF THE ABOVE LINKS ARE HACKS**
+They are literally modding the fucking framework, to put basic fucking functionality, for fuck sake, all for free!
+Microsoft is a multi-billion dollar company btw.
+Disgusting.
