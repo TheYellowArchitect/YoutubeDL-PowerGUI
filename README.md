@@ -160,7 +160,7 @@ This program is what you should expect from an 1.0 release. Functional, without 
 No more core functionality will ever be added, as there is nothing to add, it's all in there already.  
 No updates will be released, breaking stuff, as all the core functionality is **COMPLETE** (kinda sad I have to stress this out, the state of software quality nowadays is below garbage)
 
-I could be hit by a bus, and it should function perfectly even 5 years from now (as long youtube-dl.exe works)
+I could be hit by a bus, and it should function perfectly even 5 years from now (as long yt-dlp.exe works)
 			
 However, I plan to maintain it, as I'm sure there are some extreme use-cases I did not cover (but cannot think of, as this program already covers my needs and beyond)  
 And add miscellaneous features, like Localization   
