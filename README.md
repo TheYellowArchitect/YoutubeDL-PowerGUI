@@ -145,10 +145,12 @@ Given censorship is only rising, you never know when your favourite channel gets
   
 ## Download Sites Supported
 https://github.com/yt-dlp/yt-dlp/blob/master/supportedsites.md
-  
+
 ## Credits
 I have to thank the developers who made [youtube-dl](https://github.com/ytdl-org/youtube-dl), because it is the "backbone" of this software, hence it is packaged together.
 That program as the command line (kinda the black text line you type on), and this program as the interface **everyone** can use!
+
+Also those who forked youtube-dl to make [https://github.com/yt-dlp/yt-dlp](yt-dlp), for google/youtube sniped youtube-dl, and throttled it.
 
 This program is licensed under the [GPL v3 license](https://www.gnu.org/licenses/quick-guide-gplv3.html), and made by me, free for everyone, out of frustration on how time-consuming it was to download a single video (either install bloat software, or browse the directory and manually put arguments onto youtube-dl.exe)  
 I hope it is as useful to you, as it is to me :)
