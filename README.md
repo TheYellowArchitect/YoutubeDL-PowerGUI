@@ -38,19 +38,19 @@ You, as a user, want to get your job done, the program is merely your tool to ge
 This program, is accessible to everyone, accessible enough to be used exclusively by mouse without frustration!  
 But being a PowerGUI, over time of usage will make you a power user, organically.  
 #### Here are but a few examples of advanced requirements, coming up organically:  
-- Let's say on the playlist you download, one video in the playlist is taken down by youtube and is inaccessible/deleted. All other video downloaders will crash there, maybe one will skip the video.  
-If you search how to ignore removed videos, on other video downloaders, **there is literally no solution** - what are you going to do, touch the code? lmao!    
-Here? You [choose what you want](https://github.com/ytdl-org/youtube-dl#options) and just write
-`-i` or `--ignore-errors` and then copy-paste your playlist.
+- Let's say on the playlist you download, you want to embed subtitles on the videos to watch them offline.
+If you search how to embed subtitles on other video downloaders, **there is literally no solution** - what are you going to do, touch the code? lmao!    
+Here? You [choose what you want](https://github.com/yt-dlp/yt-dlp#usage-and-options) and just write
+`--embed-subs` and then copy-paste your playlist.
 - Let's say you want to download a channel, from the date 31/12/20 and before.  
 How are you going to do that? **There is literally no solution** on other video downloaders  
-Here? You [choose what you want](https://github.com/ytdl-org/youtube-dl#options) and just write  `--datebefore 31/12/20` and then copy-paste your playlist
+Here? You [choose what you want](https://github.com/yt-dlp/yt-dlp#usage-and-options) and just write  `--datebefore 31/12/20` and then copy-paste your playlist
 - Let's say you want to download a channel, with your language's subtitles, and only videos under 500 MB (saving your hard drive space)  
 Obviously as you guessed, on other video downloaders, **There is literally no solution**  
-Here, you [choose what you want](https://github.com/ytdl-org/youtube-dl#options) and just write
+Here, you [choose what you want](https://github.com/yt-dlp/yt-dlp#usage-and-options) and just write
 `--write-auto-sub --max-filesize 500m` and then copy-paste your playlist/channel
 
-Look at the [CHOICES](https://github.com/ytdl-org/youtube-dl#options) you are given! 
+Look at the [CHOICES](https://github.com/yt-dlp/yt-dlp#usage-and-options) you are given! 
 You may not use them, you are never bothered with them, **but** you CAN use them when you need them.
 
 ### Customization (Optional)
@@ -120,7 +120,7 @@ This program has all the features a casual user would need, alongside all featur
 	**HE CANNOT DO ANY OF THE ABOVE**  
 	Either give up, or go beg the developers lmao  
 	
-	Because surely, in the future, a free clone of that program may get the accessible clipboard feature, so you don't have to paste once in your life again, but no program will ever give you [SO MANY CHOICES](https://github.com/ytdl-org/youtube-dl#options) (when you need them)
+	Because surely, in the future, a free clone of that program may get the accessible clipboard feature, so you don't have to paste once in your life again, but no program will ever give you [SO MANY CHOICES](https://github.com/yt-dlp/yt-dlp#usage-and-options) (when you need them)
 	
 
   
@@ -128,7 +128,7 @@ This program has all the features a casual user would need, alongside all featur
 Honestly, the fact you can press 3 buttons
 `ctrl+C (video URL) -> F9 (shortcut boot out of anywhere) -> Enter`
 to download any video - finishing your task instantly by the time you press them - is something other "competitors" will **never** touch, and their users will be troubled by clicking buttons all day and exploring their directory instead lmao  
-And even if they really reach this level of efficiency, they will **never** have [as many choices](https://github.com/ytdl-org/youtube-dl#options) as this program.     They will be pretty but they will **never** become a PowerGUI. The opposite, however, is possible.
+And even if they really reach this level of efficiency, they will **never** have [as many choices](https://github.com/yt-dlp/yt-dlp#usage-and-options) as this program.     They will be pretty but they will **never** become a PowerGUI. The opposite, however, is possible.
 
 tl;dr: This program covers all casual usages without frustration and great intuition. But unlike the (pathetic) competition, it also covers power users, this is my point in half this text you are scrolling, since casual usage and intuition, is polished already (no searching for buttons)
   
@@ -144,7 +144,7 @@ Given censorship is only rising, you never know when your favourite channel gets
 (Also you can see them offline or later, without lagspikes, when travelling or in other boring situations.)
   
 ## Download Sites Supported
-https://ytdl-org.github.io/youtube-dl/supportedsites.html
+https://github.com/yt-dlp/yt-dlp/blob/master/supportedsites.md
   
 ## Credits
 I have to thank the developers who made [youtube-dl](https://github.com/ytdl-org/youtube-dl), because it is the "backbone" of this software, hence it is packaged together.
