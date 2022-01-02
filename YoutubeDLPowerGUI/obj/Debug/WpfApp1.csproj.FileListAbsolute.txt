@@ -1,0 +1,20 @@
+C:\Users\Metastasis\source\repos\YoutubeDLGUI\WpfApp1\WpfApp1\bin\Debug\YoutubeDL PowerGUI.exe.config
+C:\Users\Metastasis\source\repos\YoutubeDLGUI\WpfApp1\WpfApp1\bin\Debug\YoutubeDL PowerGUI.exe
+C:\Users\Metastasis\source\repos\YoutubeDLGUI\WpfApp1\WpfApp1\bin\Debug\YoutubeDL PowerGUI.pdb
+C:\Users\Metastasis\source\repos\YoutubeDLGUI\WpfApp1\WpfApp1\obj\Debug\WindowStylesDictionary.baml
+C:\Users\Metastasis\source\repos\YoutubeDLGUI\WpfApp1\WpfApp1\obj\Debug\YoutubeDLGUIWindow.g.cs
+C:\Users\Metastasis\source\repos\YoutubeDLGUI\WpfApp1\WpfApp1\obj\Debug\App.g.cs
+C:\Users\Metastasis\source\repos\YoutubeDLGUI\WpfApp1\WpfApp1\obj\Debug\YoutubeDL PowerGUI_MarkupCompile.cache
+C:\Users\Metastasis\source\repos\YoutubeDLGUI\WpfApp1\WpfApp1\obj\Debug\YoutubeDL PowerGUI_MarkupCompile.lref
+C:\Users\Metastasis\source\repos\YoutubeDLGUI\WpfApp1\WpfApp1\obj\Debug\App.baml
+C:\Users\Metastasis\source\repos\YoutubeDLGUI\WpfApp1\WpfApp1\obj\Debug\ButtonStyles.baml
+C:\Users\Metastasis\source\repos\YoutubeDLGUI\WpfApp1\WpfApp1\obj\Debug\YoutubeDLGUIWindow.baml
+C:\Users\Metastasis\source\repos\YoutubeDLGUI\WpfApp1\WpfApp1\obj\Debug\YoutubeDL PowerGUI.g.resources
+C:\Users\Metastasis\source\repos\YoutubeDLGUI\WpfApp1\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+C:\Users\Metastasis\source\repos\YoutubeDLGUI\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.cache
+C:\Users\Metastasis\source\repos\YoutubeDLGUI\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.CoreCompileInputs.cache
+C:\Users\Metastasis\source\repos\YoutubeDLGUI\WpfApp1\WpfApp1\obj\Debug\YoutubeDL PowerGUI.exe
+C:\Users\Metastasis\source\repos\YoutubeDLGUI\WpfApp1\WpfApp1\obj\Debug\YoutubeDL PowerGUI.pdb
+C:\Users\Metastasis\source\repos\YoutubeDLGUI\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csprojAssemblyReference.cache
+C:\Users\PC-1\Desktop\YoutubeDL-PowerGUI-master\YoutubeDL-PowerGUI-master\YoutubeDLPowerGUI\obj\Debug\YoutubeDL PowerGUI.exe
+C:\Users\PC-1\Desktop\YoutubeDL-PowerGUI-master\YoutubeDL-PowerGUI-master\YoutubeDLPowerGUI\obj\Debug\YoutubeDL PowerGUI.pdb

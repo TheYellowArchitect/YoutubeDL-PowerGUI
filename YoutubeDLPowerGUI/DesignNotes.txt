@@ -1,0 +1,145 @@
+﻿TODO List:
+	Release:		
+		
+		[]The Competition 
+			https://github.com/MrS0m30n3/youtube-dl-gui
+			https://github.com/axcore/tartube
+	
+		"The exe throws an error due to missing MSVCR100.dll
+			To run the exe you need to install first the Microsoft Visual C++ 2010 Redistributable Package (x86)."
+			Gotta bundle it somehow!
+Future:
+	Major:
+		[]Localisation
+			^muh tooltips (of english)
+			Nea Ellinika Binteo/Kineikones
+			Ancient Greek Kineikones
+		[]TextBlock for console Log to become TextBox so you can copy that stuff and paste it ((but ofc you cant write there!)
+		[]If ffmpeg is not detected at launch, video's --format mp4 becomes vanilla, and audio's double argument becomes --best-audio
+		[]Output-Related (look into -o for exporting data?)
+			[*]Description:
+				--write-description -> Write video description to a .description file (description for boolean ftw!)
+				--write-info-json   -> Write video metadata to a .info.json file
+				^Gotta get size, duration.
+				
+			[*]Thumbnail:
+				--write-thumbnail                Write thumbnail image to disk
+				--write-all-thumbnails           Write all thumbnail image formats to disk
+				--list-thumbnails                Simulate and list all available thumbnail formats
+				--embed-thumbnail                Embed thumbnail in the audio as cover art
+				
+				^Thumbnail view boolean box plz.
+				
+			[*]Subtitles		
+				Subtitle Options:
+				--write-sub                      Write subtitle file
+				--write-auto-sub                 Write automatically generated subtitle file(YouTube only)
+				--all-subs                       Download all the available subtitles of the video
+				--list-subs                      List all available subtitles for the video
+				--sub-format FORMAT              Subtitle format, accepts formats preference, for example: "srt" or "ass/srt/best"
+				--sub-lang LANGS                 Languages of the subtitles to download (optional) separated by commas, use --list- subs for available language tags
+				--embed-subs                     Embed subtitles in the video (only for mp4, webm and mkv videos)
+				^Subtitle POG
+				
+			[*]FFMPEG related
+				--ffmpeg-location PATH           Location of the ffmpeg/avconv binary;
+										 either the path to the binary or its
+										 containing directory.
+				^Perhaps also get ffmpeg next to youtube-dl.exe? -> https://www.ffmpeg.org/
+				
+			[*]Output Notes/Links!!!
+				https://github.com/detaybey/WrapYoutubeDl/blob/master/WrapYoutubeDl/AudioDownloader.cs
+				https://askubuntu.com/questions/948516/how-do-i-download-with-youtube-dl-to-get-video-title-as-filename
+				https://unix.stackexchange.com/questions/598737/how-do-i-get-the-path-of-the-downloaded-youtube-dl-file
+				
+				https://docs.microsoft.com/en-us/dotnet/api/system.diagnostics.process.outputdatareceived?view=net-5.0
+				https://docs.microsoft.com/en-us/dotnet/api/system.diagnostics.processstartinfo.redirectstandardoutput?view=net-5.0
+				https://github.com/detaybey/WrapYoutubeDl/blob/43dbe59d0f8fe968e4c35bacba1d92d5c3f2515e/WrapYoutubeDl.Cnsl/Program.cs#L21
+				https://github.com/detaybey/WrapYoutubeDl/blob/43dbe59d0f8fe968e4c35bacba1d92d5c3f2515e/WrapYoutubeDl/AudioDownloader.cs#L136
+				
+				https://stackoverflow.com/questions/9732709/the-calling-thread-cannot-access-this-object-because-a-different-thread-owns-it
+				
+				
+		[]Rename by middle-click EVERYTHING!
+            //https://docs.microsoft.com/en-us/dotnet/api/system.windows.controls.button?view=net-5.0#methods
+            //https://docs.microsoft.com/en-us/dotnet/api/system.windows.controls.button.onclick?view=net-5.0#System_Windows_Controls_Button_OnClick
+			//https://docs.microsoft.com/en-us/dotnet/api/system.windows.uielement.onmouserightbuttondown?view=net-5.0#System_Windows_UIElement_OnMouseRightButtonDown_System_Windows_Input_MouseButtonEventArgs_
+	Minor:
+		[]Have lots of dataGridColumnHeaders, e.g. Video Upload Date(, Video Views)
+		[]Double click a selected element, should open the file (VLC pog!)
+		Right click a selected element should open the file location and select the file
+		[]For error output and stuff (e.g. press -U to update), either make details inside the data grid, which is easy
+        https://www.wpf-tutorial.com/datagrid-control/details-row/
+        and closeable with X? -> This should give the normal youtube-dl output.
+
+Held Notes:
+
+	Async/Multithreading POG EXAMPLE:
+		private void button1_MouseEnter(object sender, MouseEventArgs e)
+		{
+			BackgroundWorker worker = new BackgroundWorker();
+			worker.DoWork += delegate
+			{
+				for (int i = 0; i < 2; i++)
+				{
+					this.Dispatcher.Invoke((Action)(() => { btn.Content = Convert.ToString(i); }));
+					System.Threading.Thread.Sleep(1000);
+				}                
+			};
+			worker.RunWorkerCompleted += delegate { tekst.Text = "Mouse Enter"; };
+			worker.RunWorkerAsync();
+		}
+		
+	Useful on panels/UI Groups
+		https://docs.microsoft.com/en-us/dotnet/desktop/wpf/controls/panels-overview?view=netframeworkdesktop-4.8
+
+	Shortcut/Access Keys:
+		https://www.wpf-tutorial.com/control-concepts/access-keys/
+		https://www.wpf-tutorial.com/commands/implementing-custom-commands/
+		https://stackoverflow.com/questions/1361350/keyboard-shortcuts-in-wpf
+
+	Tooltips:
+		https://docs.microsoft.com/en-us/dotnet/api/system.windows.controls.tooltip?view=net-5.0
+		https://www.c-sharpcorner.com/UploadFile/1e050f/tooltip-in-wpf/
+		
+	Basic WPF Tutorials:
+		https://www.wpf-tutorial.com/data-binding/hello-bound-world/
+		https://www.wpf-tutorial.com/data-binding/using-the-datacontext/
+		https://www.wpf-tutorial.com/data-binding/data-binding-via-code-behind/
+		https://www.wpf-tutorial.com/data-binding/the-update-source-trigger-property/
+		https://www.wpf-tutorial.com/datagrid-control/custom-columns/
+		https://www.wpf-tutorial.com/datagrid-control/details-row/
+		
+	Deploy
+		https://docs.microsoft.com/en-us/visualstudio/deployment/?view=vs-2019
+		https://stackoverflow.com/questions/24671255/wpf-application-as-portable-exe-or-single-exe-file
+	Debug
+		https://docs.microsoft.com/en-us/visualstudio/debugger/?view=vs-2019
+	WPF Starting Guide
+		https://docs.microsoft.com/en-us/dotnet/desktop/wpf/getting-started/walkthrough-my-first-wpf-desktop-application?view=netframeworkdesktop-4.8
+		
+	Accessibility - Keyboard Section POG (e.g. navigation fully by keyboard, and underlined shortcuts)
+		https://docs.microsoft.com/en-us/dotnet/framework/ui-automation/accessibility-best-practices
+	Language
+		https://docs.microsoft.com/en-us/dotnet/desktop/wpf/advanced/wpf-globalization-and-localization-overview?view=netframeworkdesktop-4.8
+		^Do one for English, Greek, and one for Russian.
+			^Greek -> N;ea Ellinik;a ((oxi apla ellinika, peta k arxaia ellinika an goustareis lmao))
+		^Use tooltips for each localised word to show the english
+		^Dynamic Localisation!
+			Right-clicking each button, becomes an inputText, so you can change it!
+			POG! A video on its own!
+			"Peak Localisation - Developers HATE HIM!"
+				Muh customization, muh freedom to shape the software as users so wish.
+				Right-clicking background for 3 seconds too, to change background image to whatever they wish.
+	Mass-Comment
+		https://stackoverflow.com/questions/7921672/how-to-add-comments-into-a-xaml-file-in-wpf (Ctrl+K -> Ctrl+C, and to uncomment Ctrl+K -> Ctrl+U)
+	Data-Binding
+		https://docs.microsoft.com/en-us/dotnet/desktop/wpf/data/data-binding-overview?view=netdesktop-5.0
+	Data-Templating
+		https://docs.microsoft.com/en-us/dotnet/desktop/wpf/data/data-templating-overview?view=netframeworkdesktop-4.8
+		https://www.codeproject.com/articles/18303/a-guided-tour-of-wpf-part-4-data-templates-and-tri
+		"As shown above, for ItemsControl objects, such as the ListBox, it is the ItemTemplate property. For ContentControl objects, it is the ContentTemplate property."
+	Data-Grids
+		https://www.c-sharpcorner.com/uploadfile/mahesh/datagrid-in-wpf/
+		https://codinginfinite.com/display-data-datagrid-wpf-grid-layout-tutorial/ -> making fully custom grids from XAML
+		https://www.wpf-tutorial.com/datagrid-control/custom-columns/ -> If you want to go deeper into datagrids!

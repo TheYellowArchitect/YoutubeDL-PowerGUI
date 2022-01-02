@@ -1,0 +1,18 @@
+C:\Users\PC-1\Desktop\YoutubeDL-PowerGUI-master\YoutubeDL-PowerGUI-master\YoutubeDLPowerGUI\bin\Release\YoutubeDL PowerGUI.exe.config
+C:\Users\PC-1\Desktop\YoutubeDL-PowerGUI-master\YoutubeDL-PowerGUI-master\YoutubeDLPowerGUI\bin\Release\YoutubeDL PowerGUI.exe
+C:\Users\PC-1\Desktop\YoutubeDL-PowerGUI-master\YoutubeDL-PowerGUI-master\YoutubeDLPowerGUI\bin\Release\YoutubeDL PowerGUI.pdb
+C:\Users\PC-1\Desktop\YoutubeDL-PowerGUI-master\YoutubeDL-PowerGUI-master\YoutubeDLPowerGUI\obj\Release\YoutubeDLPowerGUI.csproj.SuggestedBindingRedirects.cache
+C:\Users\PC-1\Desktop\YoutubeDL-PowerGUI-master\YoutubeDL-PowerGUI-master\YoutubeDLPowerGUI\obj\Release\WindowStylesDictionary.baml
+C:\Users\PC-1\Desktop\YoutubeDL-PowerGUI-master\YoutubeDL-PowerGUI-master\YoutubeDLPowerGUI\obj\Release\YoutubeDLGUIWindow.g.cs
+C:\Users\PC-1\Desktop\YoutubeDL-PowerGUI-master\YoutubeDL-PowerGUI-master\YoutubeDLPowerGUI\obj\Release\App.g.cs
+C:\Users\PC-1\Desktop\YoutubeDL-PowerGUI-master\YoutubeDL-PowerGUI-master\YoutubeDLPowerGUI\obj\Release\YoutubeDL PowerGUI_MarkupCompile.cache
+C:\Users\PC-1\Desktop\YoutubeDL-PowerGUI-master\YoutubeDL-PowerGUI-master\YoutubeDLPowerGUI\obj\Release\YoutubeDL PowerGUI_MarkupCompile.lref
+C:\Users\PC-1\Desktop\YoutubeDL-PowerGUI-master\YoutubeDL-PowerGUI-master\YoutubeDLPowerGUI\obj\Release\App.baml
+C:\Users\PC-1\Desktop\YoutubeDL-PowerGUI-master\YoutubeDL-PowerGUI-master\YoutubeDLPowerGUI\obj\Release\ButtonStyles.baml
+C:\Users\PC-1\Desktop\YoutubeDL-PowerGUI-master\YoutubeDL-PowerGUI-master\YoutubeDLPowerGUI\obj\Release\YoutubeDLGUIWindow.baml
+C:\Users\PC-1\Desktop\YoutubeDL-PowerGUI-master\YoutubeDL-PowerGUI-master\YoutubeDLPowerGUI\obj\Release\YoutubeDL PowerGUI.g.resources
+C:\Users\PC-1\Desktop\YoutubeDL-PowerGUI-master\YoutubeDL-PowerGUI-master\YoutubeDLPowerGUI\obj\Release\YoutubeDLPowerGUI.Properties.Resources.resources
+C:\Users\PC-1\Desktop\YoutubeDL-PowerGUI-master\YoutubeDL-PowerGUI-master\YoutubeDLPowerGUI\obj\Release\YoutubeDLPowerGUI.csproj.GenerateResource.cache
+C:\Users\PC-1\Desktop\YoutubeDL-PowerGUI-master\YoutubeDL-PowerGUI-master\YoutubeDLPowerGUI\obj\Release\YoutubeDLPowerGUI.csproj.CoreCompileInputs.cache
+C:\Users\PC-1\Desktop\YoutubeDL-PowerGUI-master\YoutubeDL-PowerGUI-master\YoutubeDLPowerGUI\obj\Release\YoutubeDL PowerGUI.exe
+C:\Users\PC-1\Desktop\YoutubeDL-PowerGUI-master\YoutubeDL-PowerGUI-master\YoutubeDLPowerGUI\obj\Release\YoutubeDL PowerGUI.pdb
