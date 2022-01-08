@@ -42,9 +42,9 @@ But being a PowerGUI, over time of usage will make you a power user, organically
 If you search how to embed subtitles on other video downloaders, **there is literally no solution** - what are you going to do, touch the code? lmao!    
 Here? You [choose what you want](https://github.com/yt-dlp/yt-dlp#usage-and-options) and just write
 `--embed-subs` and then copy-paste your playlist.
-- Let's say you want to download a channel, from the date 31/12/20 and before.  
+- Let's say you want to download a channel, from 2021 up to today
 How are you going to do that? **There is literally no solution** on other video downloaders  
-Here? You [choose what you want](https://github.com/yt-dlp/yt-dlp#usage-and-options) and just write  `--datebefore 31/12/20` and then copy-paste your playlist
+Here? You [choose what you want](https://github.com/yt-dlp/yt-dlp#usage-and-options) and just write  `--date-after "20210101"` and then copy-paste your playlist or channel
 - Let's say you want to download a channel, with your language's subtitles, and only videos under 500 MB (saving your hard drive space)  
 Obviously as you guessed, on other video downloaders, **There is literally no solution**  
 Here, you [choose what you want](https://github.com/yt-dlp/yt-dlp#usage-and-options) and just write
